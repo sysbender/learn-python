@@ -1,0 +1,6764 @@
+{
+  "text": " Bonjour à toutes et à tous, et bienvenue dans notre leçon du jour. Nous allons la commencer comme d'habitude en écoutant un dialogue. Tiens, tu peux me laisser la télé tout à l'heure ? Il y a un gros match de rugby que je veux absolument regarder. Euh, bah oui, mais je savais pas que tu regardais ce sport, tu m'en as jamais parlé. Oui, c'est vrai, je regardais souvent avec mes parents quand j'étais plus petite. Et parfois j'aime bien me refaire des matchs, ça me rappelle ma jeunesse. Ah bah je vais regarder avec toi alors, tu pourras m'expliquer les règles. Et puis apparemment c'est plein de rebondissements. Alors, notre dialogue commence par Louise qui dit à Julien Tiens, tu peux me laisser la télé tout à l'heure ? Il y a un gros match de rugby que je veux absolument regarder. Louise demande à son colocataire si elle peut avoir un temps devant la télévision un peu plus tard dans la journée. Elle explique qu'elle veut en profiter pour regarder un match important de rugby. Quand elle parle de gros match, ça veut dire que c'est un événement très attendu entre deux grandes équipes. Et donc, elle veut absolument le regarder car ce n'est pas un simple divertissement pour elle. Mais un rendez-vous inloupable. Elle est très motivée car elle a envie de voir comment ce match va se dérouler et qui va en sortir gagnant. J'avais dû répondre, bah oui mais je ne savais pas que tu regardais ce sport, tu ne m'en as jamais parlé. Julien semble presque surpris par la demande de Louise. Il ne s'attendait pas de sa part à l'envie de regarder un match sportif et particulièrement de rugby. C'est pour ça qu'il semble hésitant, même s'il n'a pas de problème, dans le fond, à lui laisser regarder la télévision. Il a juste envie d'en savoir un peu plus. Savoir depuis quand elle s'intéresse à ce sport-là, au rugby, et savoir s'il s'agit d'un nouvel aspect de ses goûts ou s'il y a quelque chose de plus ancien dont elle ne lui avait jamais parlé jusqu'à présent. Louise va alors lui répondre Louise reconnaît qu'elle n'a jamais vraiment parlé de ça auparavant. C'est bel et bien la première fois qu'ils abordent le sujet de son amour pour le rugby. Mais elle explique que ça fait un petit moment qu'elle s'intéresse et qu'elle suit les matchs de rugby. Ça remonte même à son enfance. C'est pour ça qu'il y a un lien important pour elle avec ce sport, car elle le regardait avec ses parents. Elle a de bons souvenirs familiaux et elle aime bien, de temps en temps, regarder certains matchs. Ça lui rappelle sa jeunesse. Il y a donc une forme de nostalgie chez elle et un côté agréable à pouvoir profiter d'un match à la télévision ou dans un stade. Il y a une émotion particulière quand elle regarde ce sport, qui est liée à la mémoire qu'elle a de sa famille et des bons moments qu'elle a passés avec eux. Julien va leur conclure en disant Julien n'a évidemment aucun problème sur le fait que Louise puisse regarder à la télévision le match de rugby et lui propose même, si elle est ok, de regarder le match avec elle. Il n'est pas vraiment fan. De rugby, à la base, comme il l'explique, car il lui demande si elle pourra lui expliquer les règles, ce qui montre qu'il ne connaît pas et ne comprend pas bien encore ce sport. Mais il a beaucoup de curiosité. Il a entendu parler que le rugby était plein de rebondissements, que c'était mouvementé, imprévisible avec plein de retournements de situation et il semble intéressé par l'ambiance de ce sport et a très envie de le découvrir. Surtout de passer un moment de partage avec son amie. Je propose d'écouter une dernière fois notre dialogue. Tiens, tu peux me laisser la télé tout à l'heure ? Il y a un gros match de rugby que je vais absolument regarder. Euh, bah oui, mais je ne savais pas que tu regardais ce sport. Tu ne m'en as jamais parlé. Oui, c'est vrai. Je regardais souvent avec mes parents quand j'étais plus petite. Et parfois, j'aime bien me refaire des matchs. Ça me rappelle ma jeunesse. Ah bah, je vais regarder avec toi alors. Tu pourras m'expliquer les règles. Et puis, apparemment, c'est plein de rebondissements.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.52,
+      "text": " Bonjour à toutes et à tous, et bienvenue dans notre leçon du jour.",
+      "tokens": [
+        50373,
+        25431,
+        1531,
+        14437,
+        1030,
+        1531,
+        8317,
+        11,
+        1030,
+        3610,
+        29307,
+        2680,
+        10349,
+        476,
+        17134,
+        1581,
+        2827,
+        13,
+        50549
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09072136092971969,
+      "compression_ratio": 1.656084656084656,
+      "no_speech_prob": 0.0035929775331169367,
+      "confidence": 0.865,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 0.0,
+          "end": 0.44,
+          "confidence": 0.992
+        },
+        {
+          "text": "à",
+          "start": 0.44,
+          "end": 0.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "toutes",
+          "start": 0.58,
+          "end": 0.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "et",
+          "start": 0.76,
+          "end": 0.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "à",
+          "start": 0.9,
+          "end": 1.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "tous,",
+          "start": 1.0,
+          "end": 1.28,
+          "confidence": 0.305
+        },
+        {
+          "text": "et",
+          "start": 1.38,
+          "end": 1.7,
+          "confidence": 0.998
+        },
+        {
+          "text": "bienvenue",
+          "start": 1.7,
+          "end": 2.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "dans",
+          "start": 2.12,
+          "end": 2.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "notre",
+          "start": 2.24,
+          "end": 2.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "leçon",
+          "start": 2.46,
+          "end": 3.12,
+          "confidence": 0.992
+        },
+        {
+          "text": "du",
+          "start": 3.12,
+          "end": 3.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "jour.",
+          "start": 3.2,
+          "end": 3.52,
+          "confidence": 0.967
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.04,
+      "end": 7.16,
+      "text": " Nous allons la commencer comme d'habitude en écoutant un dialogue.",
+      "tokens": [
+        50592,
+        15343,
+        34405,
+        635,
+        32817,
+        5173,
+        274,
+        6,
+        47470,
+        465,
+        15175,
+        346,
+        394,
+        517,
+        10221,
+        13,
+        50731
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09072136092971969,
+      "compression_ratio": 1.656084656084656,
+      "no_speech_prob": 0.0035929775331169367,
+      "confidence": 0.962,
+      "words": [
+        {
+          "text": "Nous",
+          "start": 4.04,
+          "end": 4.74,
+          "confidence": 0.918
+        },
+        {
+          "text": "allons",
+          "start": 4.74,
+          "end": 4.94,
+          "confidence": 0.999
+        },
+        {
+          "text": "la",
+          "start": 4.94,
+          "end": 5.08,
+          "confidence": 0.85
+        },
+        {
+          "text": "commencer",
+          "start": 5.08,
+          "end": 5.38,
+          "confidence": 0.992
+        },
+        {
+          "text": "comme",
+          "start": 5.38,
+          "end": 5.74,
+          "confidence": 0.831
+        },
+        {
+          "text": "d'habitude",
+          "start": 5.74,
+          "end": 6.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "en",
+          "start": 6.08,
+          "end": 6.26,
+          "confidence": 0.974
+        },
+        {
+          "text": "écoutant",
+          "start": 6.26,
+          "end": 6.68,
+          "confidence": 0.999
+        },
+        {
+          "text": "un",
+          "start": 6.68,
+          "end": 6.84,
+          "confidence": 0.998
+        },
+        {
+          "text": "dialogue.",
+          "start": 6.84,
+          "end": 7.16,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.42,
+      "end": 9.58,
+      "text": " Tiens, tu peux me laisser la télé tout à l'heure ?",
+      "tokens": [
+        50761,
+        20456,
+        694,
+        11,
+        2604,
+        14844,
+        385,
+        34463,
+        635,
+        24254,
+        3486,
+        1531,
+        287,
+        6,
+        23084,
+        2506,
+        50860
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09072136092971969,
+      "compression_ratio": 1.656084656084656,
+      "no_speech_prob": 0.0035929775331169367,
+      "confidence": 0.922,
+      "words": [
+        {
+          "text": "Tiens,",
+          "start": 7.42,
+          "end": 8.18,
+          "confidence": 0.762
+        },
+        {
+          "text": "tu",
+          "start": 8.2,
+          "end": 8.28,
+          "confidence": 0.96
+        },
+        {
+          "text": "peux",
+          "start": 8.28,
+          "end": 8.4,
+          "confidence": 0.997
+        },
+        {
+          "text": "me",
+          "start": 8.4,
+          "end": 8.48,
+          "confidence": 0.992
+        },
+        {
+          "text": "laisser",
+          "start": 8.48,
+          "end": 8.64,
+          "confidence": 0.983
+        },
+        {
+          "text": "la",
+          "start": 8.64,
+          "end": 8.82,
+          "confidence": 0.982
+        },
+        {
+          "text": "télé",
+          "start": 8.82,
+          "end": 9.04,
+          "confidence": 0.945
+        },
+        {
+          "text": "tout",
+          "start": 9.04,
+          "end": 9.16,
+          "confidence": 0.951
+        },
+        {
+          "text": "à",
+          "start": 9.16,
+          "end": 9.3,
+          "confidence": 0.985
+        },
+        {
+          "text": "l'heure ?",
+          "start": 9.3,
+          "end": 9.58,
+          "confidence": 0.953
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.58,
+      "end": 11.9,
+      "text": " Il y a un gros match de rugby que je veux absolument regarder.",
+      "tokens": [
+        50860,
+        4416,
+        288,
+        257,
+        517,
+        18638,
+        2995,
+        368,
+        43895,
+        631,
+        1506,
+        16389,
+        34508,
+        31468,
+        13,
+        50970
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09072136092971969,
+      "compression_ratio": 1.656084656084656,
+      "no_speech_prob": 0.0035929775331169367,
+      "confidence": 0.738,
+      "words": [
+        {
+          "text": "Il",
+          "start": 9.58,
+          "end": 9.86,
+          "confidence": 0.53
+        },
+        {
+          "text": "y",
+          "start": 9.86,
+          "end": 9.94,
+          "confidence": 0.999
+        },
+        {
+          "text": "a",
+          "start": 9.94,
+          "end": 10.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "un",
+          "start": 10.0,
+          "end": 10.06,
+          "confidence": 0.999
+        },
+        {
+          "text": "gros",
+          "start": 10.06,
+          "end": 10.2,
+          "confidence": 0.999
+        },
+        {
+          "text": "match",
+          "start": 10.2,
+          "end": 10.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "de",
+          "start": 10.44,
+          "end": 10.56,
+          "confidence": 0.556
+        },
+        {
+          "text": "rugby",
+          "start": 10.56,
+          "end": 10.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "que",
+          "start": 10.82,
+          "end": 11.06,
+          "confidence": 0.898
+        },
+        {
+          "text": "je",
+          "start": 11.06,
+          "end": 11.18,
+          "confidence": 0.989
+        },
+        {
+          "text": "veux",
+          "start": 11.18,
+          "end": 11.28,
+          "confidence": 0.099
+        },
+        {
+          "text": "absolument",
+          "start": 11.28,
+          "end": 11.54,
+          "confidence": 0.998
+        },
+        {
+          "text": "regarder.",
+          "start": 11.54,
+          "end": 11.9,
+          "confidence": 0.742
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.9,
+      "end": 15.68,
+      "text": " Euh, bah oui, mais je savais pas que tu regardais ce sport, tu m'en as jamais parlé.",
+      "tokens": [
+        50982,
+        47320,
+        11,
+        12913,
+        14367,
+        11,
+        2420,
+        1506,
+        11163,
+        1527,
+        1736,
+        631,
+        2604,
+        3843,
+        1527,
+        1769,
+        7282,
+        11,
+        2604,
+        275,
+        6,
+        268,
+        382,
+        14540,
+        38570,
+        13,
+        51152
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09072136092971969,
+      "compression_ratio": 1.656084656084656,
+      "no_speech_prob": 0.0035929775331169367,
+      "confidence": 0.679,
+      "words": [
+        {
+          "text": "Euh,",
+          "start": 11.9,
+          "end": 12.34,
+          "confidence": 0.068
+        },
+        {
+          "text": "bah",
+          "start": 12.48,
+          "end": 12.68,
+          "confidence": 0.592
+        },
+        {
+          "text": "oui,",
+          "start": 12.68,
+          "end": 12.88,
+          "confidence": 0.713
+        },
+        {
+          "text": "mais",
+          "start": 12.96,
+          "end": 13.2,
+          "confidence": 0.947
+        },
+        {
+          "text": "je",
+          "start": 13.2,
+          "end": 13.52,
+          "confidence": 0.888
+        },
+        {
+          "text": "savais",
+          "start": 13.52,
+          "end": 13.82,
+          "confidence": 0.658
+        },
+        {
+          "text": "pas",
+          "start": 13.82,
+          "end": 13.94,
+          "confidence": 0.99
+        },
+        {
+          "text": "que",
+          "start": 13.94,
+          "end": 14.0,
+          "confidence": 0.977
+        },
+        {
+          "text": "tu",
+          "start": 14.0,
+          "end": 14.1,
+          "confidence": 0.996
+        },
+        {
+          "text": "regardais",
+          "start": 14.1,
+          "end": 14.32,
+          "confidence": 0.996
+        },
+        {
+          "text": "ce",
+          "start": 14.32,
+          "end": 14.42,
+          "confidence": 0.976
+        },
+        {
+          "text": "sport,",
+          "start": 14.42,
+          "end": 14.66,
+          "confidence": 0.622
+        },
+        {
+          "text": "tu",
+          "start": 14.84,
+          "end": 15.06,
+          "confidence": 0.928
+        },
+        {
+          "text": "m'en",
+          "start": 15.06,
+          "end": 15.2,
+          "confidence": 0.961
+        },
+        {
+          "text": "as",
+          "start": 15.2,
+          "end": 15.26,
+          "confidence": 0.845
+        },
+        {
+          "text": "jamais",
+          "start": 15.26,
+          "end": 15.38,
+          "confidence": 0.974
+        },
+        {
+          "text": "parlé.",
+          "start": 15.38,
+          "end": 15.68,
+          "confidence": 0.714
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 15.68,
+      "end": 18.62,
+      "text": " Oui, c'est vrai, je regardais souvent avec mes parents quand j'étais plus petite.",
+      "tokens": [
+        51167,
+        14005,
+        11,
+        269,
+        6,
+        377,
+        17815,
+        11,
+        1506,
+        3843,
+        1527,
+        20847,
+        4163,
+        3813,
+        3152,
+        6932,
+        361,
+        6,
+        22824,
+        1804,
+        18319,
+        13,
+        51300
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09072136092971969,
+      "compression_ratio": 1.656084656084656,
+      "no_speech_prob": 0.0035929775331169367,
+      "confidence": 0.813,
+      "words": [
+        {
+          "text": "Oui,",
+          "start": 15.68,
+          "end": 16.04,
+          "confidence": 0.732
+        },
+        {
+          "text": "c'est",
+          "start": 16.16,
+          "end": 16.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "vrai,",
+          "start": 16.48,
+          "end": 16.58,
+          "confidence": 0.349
+        },
+        {
+          "text": "je",
+          "start": 16.66,
+          "end": 16.82,
+          "confidence": 0.617
+        },
+        {
+          "text": "regardais",
+          "start": 16.82,
+          "end": 17.18,
+          "confidence": 0.997
+        },
+        {
+          "text": "souvent",
+          "start": 17.18,
+          "end": 17.34,
+          "confidence": 0.987
+        },
+        {
+          "text": "avec",
+          "start": 17.34,
+          "end": 17.5,
+          "confidence": 0.963
+        },
+        {
+          "text": "mes",
+          "start": 17.5,
+          "end": 17.64,
+          "confidence": 0.992
+        },
+        {
+          "text": "parents",
+          "start": 17.64,
+          "end": 17.82,
+          "confidence": 0.984
+        },
+        {
+          "text": "quand",
+          "start": 17.82,
+          "end": 18.02,
+          "confidence": 0.896
+        },
+        {
+          "text": "j'étais",
+          "start": 18.02,
+          "end": 18.22,
+          "confidence": 0.995
+        },
+        {
+          "text": "plus",
+          "start": 18.22,
+          "end": 18.36,
+          "confidence": 0.984
+        },
+        {
+          "text": "petite.",
+          "start": 18.36,
+          "end": 18.62,
+          "confidence": 0.638
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 18.62,
+      "end": 21.38,
+      "text": " Et parfois j'aime bien me refaire des matchs, ça me rappelle ma jeunesse.",
+      "tokens": [
+        51311,
+        3790,
+        30125,
+        361,
+        6,
+        24461,
+        3610,
+        385,
+        1895,
+        9020,
+        730,
+        2995,
+        82,
+        11,
+        2788,
+        385,
+        43736,
+        463,
+        1506,
+        409,
+        7357,
+        13,
+        51437
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09072136092971969,
+      "compression_ratio": 1.656084656084656,
+      "no_speech_prob": 0.0035929775331169367,
+      "confidence": 0.904,
+      "words": [
+        {
+          "text": "Et",
+          "start": 18.62,
+          "end": 18.9,
+          "confidence": 0.515
+        },
+        {
+          "text": "parfois",
+          "start": 18.9,
+          "end": 19.2,
+          "confidence": 0.994
+        },
+        {
+          "text": "j'aime",
+          "start": 19.2,
+          "end": 19.52,
+          "confidence": 0.876
+        },
+        {
+          "text": "bien",
+          "start": 19.52,
+          "end": 19.66,
+          "confidence": 0.998
+        },
+        {
+          "text": "me",
+          "start": 19.66,
+          "end": 19.74,
+          "confidence": 0.983
+        },
+        {
+          "text": "refaire",
+          "start": 19.74,
+          "end": 19.98,
+          "confidence": 0.998
+        },
+        {
+          "text": "des",
+          "start": 19.98,
+          "end": 20.06,
+          "confidence": 0.991
+        },
+        {
+          "text": "matchs,",
+          "start": 20.06,
+          "end": 20.42,
+          "confidence": 0.849
+        },
+        {
+          "text": "ça",
+          "start": 20.44,
+          "end": 20.6,
+          "confidence": 0.915
+        },
+        {
+          "text": "me",
+          "start": 20.6,
+          "end": 20.7,
+          "confidence": 0.998
+        },
+        {
+          "text": "rappelle",
+          "start": 20.7,
+          "end": 20.86,
+          "confidence": 0.997
+        },
+        {
+          "text": "ma",
+          "start": 20.86,
+          "end": 21.02,
+          "confidence": 0.991
+        },
+        {
+          "text": "jeunesse.",
+          "start": 21.02,
+          "end": 21.38,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 21.38,
+      "end": 24.14,
+      "text": " Ah bah je vais regarder avec toi alors, tu pourras m'expliquer les règles.",
+      "tokens": [
+        51452,
+        2438,
+        12913,
+        1506,
+        9369,
+        31468,
+        4163,
+        15648,
+        11246,
+        11,
+        2604,
+        2016,
+        3906,
+        275,
+        6,
+        23040,
+        23909,
+        1512,
+        43659,
+        904,
+        13,
+        51572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09072136092971969,
+      "compression_ratio": 1.656084656084656,
+      "no_speech_prob": 0.0035929775331169367,
+      "confidence": 0.834,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 21.38,
+          "end": 21.7,
+          "confidence": 0.605
+        },
+        {
+          "text": "bah",
+          "start": 21.7,
+          "end": 21.86,
+          "confidence": 0.635
+        },
+        {
+          "text": "je",
+          "start": 21.86,
+          "end": 21.98,
+          "confidence": 0.942
+        },
+        {
+          "text": "vais",
+          "start": 21.98,
+          "end": 22.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "regarder",
+          "start": 22.1,
+          "end": 22.24,
+          "confidence": 0.996
+        },
+        {
+          "text": "avec",
+          "start": 22.24,
+          "end": 22.44,
+          "confidence": 0.986
+        },
+        {
+          "text": "toi",
+          "start": 22.44,
+          "end": 22.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "alors,",
+          "start": 22.66,
+          "end": 22.82,
+          "confidence": 0.626
+        },
+        {
+          "text": "tu",
+          "start": 22.94,
+          "end": 23.14,
+          "confidence": 0.966
+        },
+        {
+          "text": "pourras",
+          "start": 23.14,
+          "end": 23.36,
+          "confidence": 0.976
+        },
+        {
+          "text": "m'expliquer",
+          "start": 23.36,
+          "end": 23.74,
+          "confidence": 0.999
+        },
+        {
+          "text": "les",
+          "start": 23.74,
+          "end": 23.84,
+          "confidence": 0.971
+        },
+        {
+          "text": "règles.",
+          "start": 23.84,
+          "end": 24.14,
+          "confidence": 0.597
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 24.14,
+      "end": 26.82,
+      "text": " Et puis apparemment c'est plein de rebondissements.",
+      "tokens": [
+        51592,
+        3790,
+        9093,
+        724,
+        19183,
+        518,
+        269,
+        6,
+        377,
+        21088,
+        368,
+        12970,
+        684,
+        44928,
+        13,
+        51709
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09072136092971969,
+      "compression_ratio": 1.656084656084656,
+      "no_speech_prob": 0.0035929775331169367,
+      "confidence": 0.879,
+      "words": [
+        {
+          "text": "Et",
+          "start": 24.14,
+          "end": 24.56,
+          "confidence": 0.784
+        },
+        {
+          "text": "puis",
+          "start": 24.56,
+          "end": 24.72,
+          "confidence": 0.999
+        },
+        {
+          "text": "apparemment",
+          "start": 24.72,
+          "end": 25.44,
+          "confidence": 0.899
+        },
+        {
+          "text": "c'est",
+          "start": 25.44,
+          "end": 25.82,
+          "confidence": 0.796
+        },
+        {
+          "text": "plein",
+          "start": 25.82,
+          "end": 26.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "de",
+          "start": 26.08,
+          "end": 26.28,
+          "confidence": 0.99
+        },
+        {
+          "text": "rebondissements.",
+          "start": 26.28,
+          "end": 26.82,
+          "confidence": 0.871
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2688,
+      "start": 49.18,
+      "end": 53.74,
+      "text": " Alors, notre dialogue commence par Louise qui dit à Julien",
+      "tokens": [
+        50365,
+        9946,
+        11,
+        10349,
+        10221,
+        18137,
+        971,
+        35962,
+        1956,
+        6176,
+        1531,
+        7174,
+        1053,
+        51713
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0905812680721283,
+      "compression_ratio": 1.2222222222222223,
+      "no_speech_prob": 0.0001559775701025501,
+      "confidence": 0.607,
+      "words": [
+        {
+          "text": "Alors,",
+          "start": 49.18,
+          "end": 49.2,
+          "confidence": 0.083
+        },
+        {
+          "text": "notre",
+          "start": 50.74,
+          "end": 51.0,
+          "confidence": 0.406
+        },
+        {
+          "text": "dialogue",
+          "start": 51.0,
+          "end": 51.54,
+          "confidence": 0.998
+        },
+        {
+          "text": "commence",
+          "start": 51.54,
+          "end": 51.86,
+          "confidence": 0.987
+        },
+        {
+          "text": "par",
+          "start": 51.86,
+          "end": 52.28,
+          "confidence": 0.985
+        },
+        {
+          "text": "Louise",
+          "start": 52.28,
+          "end": 52.64,
+          "confidence": 0.979
+        },
+        {
+          "text": "qui",
+          "start": 52.64,
+          "end": 52.9,
+          "confidence": 0.959
+        },
+        {
+          "text": "dit",
+          "start": 52.9,
+          "end": 53.04,
+          "confidence": 0.994
+        },
+        {
+          "text": "à",
+          "start": 53.04,
+          "end": 53.24,
+          "confidence": 0.996
+        },
+        {
+          "text": "Julien",
+          "start": 53.24,
+          "end": 53.74,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2688,
+      "start": 53.74,
+      "end": 56.02,
+      "text": " Tiens, tu peux me laisser la télé tout à l'heure ?",
+      "tokens": [
+        51713,
+        20456,
+        694,
+        11,
+        2604,
+        14844,
+        385,
+        34463,
+        635,
+        24254,
+        3486,
+        1531,
+        287,
+        6,
+        23084,
+        2506,
+        51830
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0905812680721283,
+      "compression_ratio": 1.2222222222222223,
+      "no_speech_prob": 0.0001559775701025501,
+      "confidence": 0.753,
+      "words": [
+        {
+          "text": "Tiens,",
+          "start": 53.74,
+          "end": 54.2,
+          "confidence": 0.735
+        },
+        {
+          "text": "tu",
+          "start": 54.22,
+          "end": 54.34,
+          "confidence": 0.903
+        },
+        {
+          "text": "peux",
+          "start": 54.34,
+          "end": 54.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "me",
+          "start": 54.54,
+          "end": 54.68,
+          "confidence": 0.992
+        },
+        {
+          "text": "laisser",
+          "start": 54.68,
+          "end": 54.88,
+          "confidence": 0.996
+        },
+        {
+          "text": "la",
+          "start": 54.88,
+          "end": 55.12,
+          "confidence": 0.935
+        },
+        {
+          "text": "télé",
+          "start": 55.12,
+          "end": 55.34,
+          "confidence": 0.997
+        },
+        {
+          "text": "tout",
+          "start": 55.34,
+          "end": 55.46,
+          "confidence": 0.945
+        },
+        {
+          "text": "à",
+          "start": 55.46,
+          "end": 55.64,
+          "confidence": 0.995
+        },
+        {
+          "text": "l'heure ?",
+          "start": 55.64,
+          "end": 56.02,
+          "confidence": 0.461
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2688,
+      "start": 56.02,
+      "end": 57.42,
+      "text": " Il y a un gros match de rugby que je veux absolument regarder.",
+      "tokens": [
+        51830,
+        4416,
+        288,
+        257,
+        517,
+        18638,
+        2995,
+        368,
+        43895,
+        631,
+        1506,
+        16389,
+        34508,
+        31468,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0905812680721283,
+      "compression_ratio": 1.2222222222222223,
+      "no_speech_prob": 0.0001559775701025501,
+      "confidence": 0.129,
+      "words": [
+        {
+          "text": "Il",
+          "start": 56.02,
+          "end": 56.12,
+          "confidence": 0.381
+        },
+        {
+          "text": "y",
+          "start": 56.12,
+          "end": 56.24,
+          "confidence": 0.997
+        },
+        {
+          "text": "a",
+          "start": 56.24,
+          "end": 56.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "un",
+          "start": 56.3,
+          "end": 56.34,
+          "confidence": 0.999
+        },
+        {
+          "text": "gros",
+          "start": 56.34,
+          "end": 56.56,
+          "confidence": 0.999
+        },
+        {
+          "text": "match",
+          "start": 56.56,
+          "end": 56.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "de",
+          "start": 56.78,
+          "end": 56.96,
+          "confidence": 0.988
+        },
+        {
+          "text": "rugby",
+          "start": 56.96,
+          "end": 57.22,
+          "confidence": 0.999
+        },
+        {
+          "text": "que",
+          "start": 57.22,
+          "end": 57.34,
+          "confidence": 0.0
+        },
+        {
+          "text": "je",
+          "start": 57.34,
+          "end": 57.36,
+          "confidence": 0.205
+        },
+        {
+          "text": "veux",
+          "start": 57.36,
+          "end": 57.38,
+          "confidence": 0.021
+        },
+        {
+          "text": "absolument",
+          "start": 57.38,
+          "end": 57.4,
+          "confidence": 0.002
+        },
+        {
+          "text": "regarder.",
+          "start": 57.4,
+          "end": 57.42,
+          "confidence": 0.064
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5688,
+      "start": 59.78,
+      "end": 66.98,
+      "text": " Louise demande à son colocataire si elle peut avoir un temps devant la télévision un peu plus tard dans la journée.",
+      "tokens": [
+        50365,
+        35962,
+        26982,
+        1531,
+        1872,
+        12327,
+        3274,
+        621,
+        1511,
+        8404,
+        5977,
+        10853,
+        517,
+        8827,
+        28982,
+        635,
+        24254,
+        6763,
+        517,
+        5604,
+        1804,
+        21057,
+        2680,
+        635,
+        34277,
+        13,
+        50876
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08473762512207031,
+      "compression_ratio": 1.5891472868217054,
+      "no_speech_prob": 0.05253893882036209,
+      "confidence": 0.828,
+      "words": [
+        {
+          "text": "Louise",
+          "start": 59.78,
+          "end": 59.8,
+          "confidence": 0.013
+        },
+        {
+          "text": "demande",
+          "start": 59.8,
+          "end": 60.3,
+          "confidence": 0.996
+        },
+        {
+          "text": "à",
+          "start": 60.3,
+          "end": 60.66,
+          "confidence": 0.998
+        },
+        {
+          "text": "son",
+          "start": 60.66,
+          "end": 60.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "colocataire",
+          "start": 60.82,
+          "end": 61.78,
+          "confidence": 0.998
+        },
+        {
+          "text": "si",
+          "start": 61.78,
+          "end": 62.04,
+          "confidence": 0.883
+        },
+        {
+          "text": "elle",
+          "start": 62.04,
+          "end": 62.48,
+          "confidence": 0.992
+        },
+        {
+          "text": "peut",
+          "start": 62.48,
+          "end": 62.7,
+          "confidence": 0.997
+        },
+        {
+          "text": "avoir",
+          "start": 62.7,
+          "end": 63.42,
+          "confidence": 0.98
+        },
+        {
+          "text": "un",
+          "start": 63.42,
+          "end": 63.84,
+          "confidence": 0.978
+        },
+        {
+          "text": "temps",
+          "start": 63.84,
+          "end": 64.18,
+          "confidence": 0.997
+        },
+        {
+          "text": "devant",
+          "start": 64.18,
+          "end": 64.54,
+          "confidence": 0.98
+        },
+        {
+          "text": "la",
+          "start": 64.54,
+          "end": 64.7,
+          "confidence": 0.996
+        },
+        {
+          "text": "télévision",
+          "start": 64.7,
+          "end": 65.48,
+          "confidence": 0.996
+        },
+        {
+          "text": "un",
+          "start": 65.48,
+          "end": 65.68,
+          "confidence": 0.896
+        },
+        {
+          "text": "peu",
+          "start": 65.68,
+          "end": 65.84,
+          "confidence": 0.999
+        },
+        {
+          "text": "plus",
+          "start": 65.84,
+          "end": 66.02,
+          "confidence": 0.997
+        },
+        {
+          "text": "tard",
+          "start": 66.02,
+          "end": 66.28,
+          "confidence": 0.998
+        },
+        {
+          "text": "dans",
+          "start": 66.28,
+          "end": 66.4,
+          "confidence": 0.997
+        },
+        {
+          "text": "la",
+          "start": 66.4,
+          "end": 66.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "journée.",
+          "start": 66.54,
+          "end": 66.98,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5688,
+      "start": 67.52,
+      "end": 72.38,
+      "text": " Elle explique qu'elle veut en profiter pour regarder un match important de rugby.",
+      "tokens": [
+        50922,
+        16227,
+        1490,
+        1925,
+        421,
+        6,
+        4434,
+        14873,
+        465,
+        1740,
+        1681,
+        2016,
+        31468,
+        517,
+        2995,
+        1021,
+        368,
+        43895,
+        13,
+        51149
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08473762512207031,
+      "compression_ratio": 1.5891472868217054,
+      "no_speech_prob": 0.05253893882036209,
+      "confidence": 0.998,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 67.52,
+          "end": 68.04,
+          "confidence": 0.994
+        },
+        {
+          "text": "explique",
+          "start": 68.04,
+          "end": 68.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "qu'elle",
+          "start": 68.56,
+          "end": 68.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "veut",
+          "start": 68.84,
+          "end": 68.94,
+          "confidence": 0.999
+        },
+        {
+          "text": "en",
+          "start": 68.94,
+          "end": 69.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "profiter",
+          "start": 69.08,
+          "end": 69.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "pour",
+          "start": 69.52,
+          "end": 69.74,
+          "confidence": 0.993
+        },
+        {
+          "text": "regarder",
+          "start": 69.74,
+          "end": 70.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "un",
+          "start": 70.12,
+          "end": 70.66,
+          "confidence": 0.995
+        },
+        {
+          "text": "match",
+          "start": 70.66,
+          "end": 70.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "important",
+          "start": 70.96,
+          "end": 71.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "de",
+          "start": 71.5,
+          "end": 71.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "rugby.",
+          "start": 71.92,
+          "end": 72.38,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5688,
+      "start": 72.7,
+      "end": 80.08,
+      "text": " Quand elle parle de gros match, ça veut dire que c'est un événement très attendu entre deux grandes équipes.",
+      "tokens": [
+        51181,
+        22015,
+        8404,
+        18508,
+        368,
+        18638,
+        2995,
+        11,
+        2788,
+        14873,
+        1264,
+        631,
+        269,
+        6,
+        377,
+        517,
+        20090,
+        3516,
+        1712,
+        5732,
+        6888,
+        84,
+        3962,
+        8208,
+        16640,
+        25830,
+        38689,
+        13,
+        51529
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08473762512207031,
+      "compression_ratio": 1.5891472868217054,
+      "no_speech_prob": 0.05253893882036209,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "Quand",
+          "start": 72.7,
+          "end": 73.28,
+          "confidence": 0.987
+        },
+        {
+          "text": "elle",
+          "start": 73.28,
+          "end": 73.52,
+          "confidence": 0.987
+        },
+        {
+          "text": "parle",
+          "start": 73.52,
+          "end": 73.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "de",
+          "start": 73.8,
+          "end": 74.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "gros",
+          "start": 74.08,
+          "end": 74.48,
+          "confidence": 0.897
+        },
+        {
+          "text": "match,",
+          "start": 74.48,
+          "end": 74.82,
+          "confidence": 0.928
+        },
+        {
+          "text": "ça",
+          "start": 75.02,
+          "end": 75.28,
+          "confidence": 0.95
+        },
+        {
+          "text": "veut",
+          "start": 75.28,
+          "end": 75.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "dire",
+          "start": 75.42,
+          "end": 75.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "que",
+          "start": 75.66,
+          "end": 75.78,
+          "confidence": 0.999
+        },
+        {
+          "text": "c'est",
+          "start": 75.78,
+          "end": 76.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "un",
+          "start": 76.02,
+          "end": 76.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "événement",
+          "start": 76.18,
+          "end": 77.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "très",
+          "start": 77.24,
+          "end": 77.6,
+          "confidence": 0.987
+        },
+        {
+          "text": "attendu",
+          "start": 77.6,
+          "end": 78.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "entre",
+          "start": 78.3,
+          "end": 78.54,
+          "confidence": 0.921
+        },
+        {
+          "text": "deux",
+          "start": 78.54,
+          "end": 78.96,
+          "confidence": 0.974
+        },
+        {
+          "text": "grandes",
+          "start": 78.96,
+          "end": 79.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "équipes.",
+          "start": 79.38,
+          "end": 80.08,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5688,
+      "start": 80.08,
+      "end": 86.46,
+      "text": " Et donc, elle veut absolument le regarder car ce n'est pas un simple divertissement pour elle.",
+      "tokens": [
+        51529,
+        3790,
+        5926,
+        11,
+        8404,
+        14873,
+        34508,
+        476,
+        31468,
+        1032,
+        1769,
+        297,
+        6,
+        377,
+        1736,
+        517,
+        2199,
+        23781,
+        31931,
+        2016,
+        8404,
+        13,
+        51849
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08473762512207031,
+      "compression_ratio": 1.5891472868217054,
+      "no_speech_prob": 0.05253893882036209,
+      "confidence": 0.913,
+      "words": [
+        {
+          "text": "Et",
+          "start": 80.08,
+          "end": 80.64,
+          "confidence": 0.635
+        },
+        {
+          "text": "donc,",
+          "start": 80.64,
+          "end": 80.96,
+          "confidence": 0.871
+        },
+        {
+          "text": "elle",
+          "start": 81.02,
+          "end": 81.42,
+          "confidence": 0.998
+        },
+        {
+          "text": "veut",
+          "start": 81.42,
+          "end": 81.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "absolument",
+          "start": 81.6,
+          "end": 82.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "le",
+          "start": 82.16,
+          "end": 82.66,
+          "confidence": 0.995
+        },
+        {
+          "text": "regarder",
+          "start": 82.66,
+          "end": 83.22,
+          "confidence": 0.999
+        },
+        {
+          "text": "car",
+          "start": 83.22,
+          "end": 84.08,
+          "confidence": 0.397
+        },
+        {
+          "text": "ce",
+          "start": 84.08,
+          "end": 84.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "n'est",
+          "start": 84.3,
+          "end": 84.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "pas",
+          "start": 84.52,
+          "end": 84.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "un",
+          "start": 84.64,
+          "end": 84.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "simple",
+          "start": 84.72,
+          "end": 85.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "divertissement",
+          "start": 85.02,
+          "end": 85.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "pour",
+          "start": 85.78,
+          "end": 86.12,
+          "confidence": 0.992
+        },
+        {
+          "text": "elle.",
+          "start": 86.12,
+          "end": 86.46,
+          "confidence": 0.887
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8688,
+      "start": 86.46,
+      "end": 89.14,
+      "text": " Mais un rendez-vous inloupable.",
+      "tokens": [
+        50365,
+        6313,
+        517,
+        40026,
+        12,
+        16514,
+        294,
+        75,
+        1250,
+        712,
+        13,
+        50484
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12274506262370519,
+      "compression_ratio": 1.532258064516129,
+      "no_speech_prob": 0.0015977267175912857,
+      "confidence": 0.659,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 86.46,
+          "end": 87.0,
+          "confidence": 0.042
+        },
+        {
+          "text": "un",
+          "start": 87.0,
+          "end": 87.36,
+          "confidence": 0.988
+        },
+        {
+          "text": "rendez-vous",
+          "start": 87.36,
+          "end": 88.26,
+          "confidence": 0.993
+        },
+        {
+          "text": "inloupable.",
+          "start": 88.26,
+          "end": 89.14,
+          "confidence": 0.825
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8688,
+      "start": 89.2,
+      "end": 97.48,
+      "text": " Elle est très motivée car elle a envie de voir comment ce match va se dérouler et qui va en sortir gagnant.",
+      "tokens": [
+        50506,
+        16227,
+        871,
+        5732,
+        5426,
+        3856,
+        1032,
+        8404,
+        257,
+        24149,
+        368,
+        10695,
+        2871,
+        1769,
+        2995,
+        2773,
+        369,
+        2795,
+        13122,
+        1918,
+        1030,
+        1956,
+        2773,
+        465,
+        26906,
+        49177,
+        394,
+        13,
+        50921
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12274506262370519,
+      "compression_ratio": 1.532258064516129,
+      "no_speech_prob": 0.0015977267175912857,
+      "confidence": 0.984,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 89.2,
+          "end": 89.7,
+          "confidence": 0.961
+        },
+        {
+          "text": "est",
+          "start": 89.7,
+          "end": 89.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "très",
+          "start": 89.92,
+          "end": 90.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "motivée",
+          "start": 90.4,
+          "end": 91.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "car",
+          "start": 91.1,
+          "end": 91.26,
+          "confidence": 0.968
+        },
+        {
+          "text": "elle",
+          "start": 91.26,
+          "end": 91.5,
+          "confidence": 0.998
+        },
+        {
+          "text": "a",
+          "start": 91.5,
+          "end": 91.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "envie",
+          "start": 91.64,
+          "end": 92.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "de",
+          "start": 92.16,
+          "end": 92.52,
+          "confidence": 0.997
+        },
+        {
+          "text": "voir",
+          "start": 92.52,
+          "end": 93.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "comment",
+          "start": 93.08,
+          "end": 93.52,
+          "confidence": 0.977
+        },
+        {
+          "text": "ce",
+          "start": 93.52,
+          "end": 93.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "match",
+          "start": 93.76,
+          "end": 94.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "va",
+          "start": 94.14,
+          "end": 94.28,
+          "confidence": 0.999
+        },
+        {
+          "text": "se",
+          "start": 94.28,
+          "end": 94.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "dérouler",
+          "start": 94.46,
+          "end": 95.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "et",
+          "start": 95.12,
+          "end": 95.52,
+          "confidence": 0.753
+        },
+        {
+          "text": "qui",
+          "start": 95.52,
+          "end": 95.78,
+          "confidence": 0.988
+        },
+        {
+          "text": "va",
+          "start": 95.78,
+          "end": 96.04,
+          "confidence": 0.996
+        },
+        {
+          "text": "en",
+          "start": 96.04,
+          "end": 96.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "sortir",
+          "start": 96.36,
+          "end": 96.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "gagnant.",
+          "start": 96.82,
+          "end": 97.48,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8688,
+      "start": 98.13,
+      "end": 103.17,
+      "text": " J'avais dû répondre, bah oui mais je ne savais pas que tu regardais ce sport, tu ne m'en as jamais parlé.",
+      "tokens": [
+        50945,
+        508,
+        6,
+        18866,
+        42300,
+        40139,
+        11,
+        12913,
+        14367,
+        2420,
+        1506,
+        408,
+        11163,
+        1527,
+        1736,
+        631,
+        2604,
+        3843,
+        1527,
+        1769,
+        7282,
+        11,
+        2604,
+        408,
+        275,
+        6,
+        268,
+        382,
+        14540,
+        38570,
+        13,
+        51180
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12274506262370519,
+      "compression_ratio": 1.532258064516129,
+      "no_speech_prob": 0.0015977267175912857,
+      "confidence": 0.767,
+      "words": [
+        {
+          "text": "J'avais",
+          "start": 98.13,
+          "end": 98.77,
+          "confidence": 0.808
+        },
+        {
+          "text": "dû",
+          "start": 98.77,
+          "end": 98.91,
+          "confidence": 0.342
+        },
+        {
+          "text": "répondre,",
+          "start": 98.91,
+          "end": 99.17,
+          "confidence": 0.363
+        },
+        {
+          "text": "bah",
+          "start": 99.39,
+          "end": 99.95,
+          "confidence": 0.171
+        },
+        {
+          "text": "oui",
+          "start": 99.95,
+          "end": 100.49,
+          "confidence": 0.999
+        },
+        {
+          "text": "mais",
+          "start": 100.49,
+          "end": 100.73,
+          "confidence": 0.573
+        },
+        {
+          "text": "je",
+          "start": 100.73,
+          "end": 100.89,
+          "confidence": 0.988
+        },
+        {
+          "text": "ne",
+          "start": 100.89,
+          "end": 100.99,
+          "confidence": 0.307
+        },
+        {
+          "text": "savais",
+          "start": 100.99,
+          "end": 101.13,
+          "confidence": 1.0
+        },
+        {
+          "text": "pas",
+          "start": 101.13,
+          "end": 101.29,
+          "confidence": 0.997
+        },
+        {
+          "text": "que",
+          "start": 101.29,
+          "end": 101.35,
+          "confidence": 0.988
+        },
+        {
+          "text": "tu",
+          "start": 101.35,
+          "end": 101.43,
+          "confidence": 0.999
+        },
+        {
+          "text": "regardais",
+          "start": 101.43,
+          "end": 101.69,
+          "confidence": 1.0
+        },
+        {
+          "text": "ce",
+          "start": 101.69,
+          "end": 101.75,
+          "confidence": 0.995
+        },
+        {
+          "text": "sport,",
+          "start": 101.75,
+          "end": 102.01,
+          "confidence": 0.965
+        },
+        {
+          "text": "tu",
+          "start": 102.21,
+          "end": 102.43,
+          "confidence": 0.921
+        },
+        {
+          "text": "ne",
+          "start": 102.43,
+          "end": 102.53,
+          "confidence": 0.741
+        },
+        {
+          "text": "m'en",
+          "start": 102.53,
+          "end": 102.67,
+          "confidence": 0.993
+        },
+        {
+          "text": "as",
+          "start": 102.67,
+          "end": 102.73,
+          "confidence": 0.984
+        },
+        {
+          "text": "jamais",
+          "start": 102.73,
+          "end": 102.91,
+          "confidence": 0.998
+        },
+        {
+          "text": "parlé.",
+          "start": 102.91,
+          "end": 103.17,
+          "confidence": 0.903
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 8688,
+      "start": 103.57,
+      "end": 107.47,
+      "text": " Julien semble presque surpris par la demande de Louise.",
+      "tokens": [
+        51220,
+        7174,
+        1053,
+        38328,
+        37843,
+        3083,
+        271,
+        971,
+        635,
+        26982,
+        368,
+        35962,
+        13,
+        51402
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12274506262370519,
+      "compression_ratio": 1.532258064516129,
+      "no_speech_prob": 0.0015977267175912857,
+      "confidence": 0.998,
+      "words": [
+        {
+          "text": "Julien",
+          "start": 103.57,
+          "end": 104.33,
+          "confidence": 0.998
+        },
+        {
+          "text": "semble",
+          "start": 104.33,
+          "end": 104.63,
+          "confidence": 1.0
+        },
+        {
+          "text": "presque",
+          "start": 104.63,
+          "end": 105.15,
+          "confidence": 1.0
+        },
+        {
+          "text": "surpris",
+          "start": 105.15,
+          "end": 105.93,
+          "confidence": 0.998
+        },
+        {
+          "text": "par",
+          "start": 105.93,
+          "end": 106.15,
+          "confidence": 0.993
+        },
+        {
+          "text": "la",
+          "start": 106.15,
+          "end": 106.37,
+          "confidence": 1.0
+        },
+        {
+          "text": "demande",
+          "start": 106.37,
+          "end": 106.79,
+          "confidence": 1.0
+        },
+        {
+          "text": "de",
+          "start": 106.79,
+          "end": 107.11,
+          "confidence": 1.0
+        },
+        {
+          "text": "Louise.",
+          "start": 107.11,
+          "end": 107.47,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 8688,
+      "start": 107.57,
+      "end": 114.71,
+      "text": " Il ne s'attendait pas de sa part à l'envie de regarder un match sportif",
+      "tokens": [
+        51420,
+        4416,
+        408,
+        262,
+        6,
+        49548,
+        1001,
+        1736,
+        368,
+        601,
+        644,
+        1531,
+        287,
+        6,
+        268,
+        12702,
+        368,
+        31468,
+        517,
+        2995,
+        7282,
+        351,
+        51755
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12274506262370519,
+      "compression_ratio": 1.532258064516129,
+      "no_speech_prob": 0.0015977267175912857,
+      "confidence": 0.943,
+      "words": [
+        {
+          "text": "Il",
+          "start": 107.57,
+          "end": 108.53,
+          "confidence": 0.794
+        },
+        {
+          "text": "ne",
+          "start": 108.53,
+          "end": 108.75,
+          "confidence": 0.999
+        },
+        {
+          "text": "s'attendait",
+          "start": 108.75,
+          "end": 109.43,
+          "confidence": 1.0
+        },
+        {
+          "text": "pas",
+          "start": 109.43,
+          "end": 109.67,
+          "confidence": 1.0
+        },
+        {
+          "text": "de",
+          "start": 109.67,
+          "end": 110.09,
+          "confidence": 0.376
+        },
+        {
+          "text": "sa",
+          "start": 110.09,
+          "end": 110.31,
+          "confidence": 1.0
+        },
+        {
+          "text": "part",
+          "start": 110.31,
+          "end": 110.65,
+          "confidence": 1.0
+        },
+        {
+          "text": "à",
+          "start": 110.65,
+          "end": 111.37,
+          "confidence": 0.992
+        },
+        {
+          "text": "l'envie",
+          "start": 111.37,
+          "end": 112.33,
+          "confidence": 0.999
+        },
+        {
+          "text": "de",
+          "start": 112.33,
+          "end": 112.47,
+          "confidence": 0.999
+        },
+        {
+          "text": "regarder",
+          "start": 112.47,
+          "end": 112.85,
+          "confidence": 1.0
+        },
+        {
+          "text": "un",
+          "start": 112.85,
+          "end": 113.47,
+          "confidence": 0.999
+        },
+        {
+          "text": "match",
+          "start": 113.47,
+          "end": 113.79,
+          "confidence": 1.0
+        },
+        {
+          "text": "sportif",
+          "start": 113.79,
+          "end": 114.71,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 11468,
+      "start": 114.71,
+      "end": 117.13,
+      "text": " et particulièrement de rugby.",
+      "tokens": [
+        50365,
+        1030,
+        21861,
+        29922,
+        368,
+        43895,
+        13,
+        50490
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08714312915654146,
+      "compression_ratio": 1.4910394265232976,
+      "no_speech_prob": 0.007009880151599646,
+      "confidence": 0.936,
+      "words": [
+        {
+          "text": "et",
+          "start": 114.71,
+          "end": 114.87,
+          "confidence": 0.892
+        },
+        {
+          "text": "particulièrement",
+          "start": 114.87,
+          "end": 116.09,
+          "confidence": 0.998
+        },
+        {
+          "text": "de",
+          "start": 116.09,
+          "end": 116.65,
+          "confidence": 0.915
+        },
+        {
+          "text": "rugby.",
+          "start": 116.65,
+          "end": 117.13,
+          "confidence": 0.909
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 11468,
+      "start": 117.61,
+      "end": 125.35,
+      "text": " C'est pour ça qu'il semble hésitant, même s'il n'a pas de problème, dans le fond, à lui laisser regarder la télévision.",
+      "tokens": [
+        50532,
+        383,
+        6,
+        377,
+        2016,
+        2788,
+        421,
+        6,
+        388,
+        38328,
+        276,
+        2191,
+        270,
+        394,
+        11,
+        5698,
+        262,
+        6,
+        388,
+        297,
+        6,
+        64,
+        1736,
+        368,
+        21111,
+        11,
+        2680,
+        476,
+        9557,
+        11,
+        1531,
+        8783,
+        34463,
+        31468,
+        635,
+        24254,
+        6763,
+        13,
+        50901
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08714312915654146,
+      "compression_ratio": 1.4910394265232976,
+      "no_speech_prob": 0.007009880151599646,
+      "confidence": 0.975,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 117.61,
+          "end": 118.45,
+          "confidence": 0.993
+        },
+        {
+          "text": "pour",
+          "start": 118.45,
+          "end": 118.53,
+          "confidence": 1.0
+        },
+        {
+          "text": "ça",
+          "start": 118.53,
+          "end": 118.81,
+          "confidence": 0.994
+        },
+        {
+          "text": "qu'il",
+          "start": 118.81,
+          "end": 119.35,
+          "confidence": 0.998
+        },
+        {
+          "text": "semble",
+          "start": 119.35,
+          "end": 119.61,
+          "confidence": 0.999
+        },
+        {
+          "text": "hésitant,",
+          "start": 119.61,
+          "end": 120.63,
+          "confidence": 0.979
+        },
+        {
+          "text": "même",
+          "start": 120.69,
+          "end": 121.19,
+          "confidence": 0.916
+        },
+        {
+          "text": "s'il",
+          "start": 121.19,
+          "end": 121.47,
+          "confidence": 1.0
+        },
+        {
+          "text": "n'a",
+          "start": 121.47,
+          "end": 121.67,
+          "confidence": 1.0
+        },
+        {
+          "text": "pas",
+          "start": 121.67,
+          "end": 121.81,
+          "confidence": 1.0
+        },
+        {
+          "text": "de",
+          "start": 121.81,
+          "end": 121.93,
+          "confidence": 1.0
+        },
+        {
+          "text": "problème,",
+          "start": 121.93,
+          "end": 122.41,
+          "confidence": 0.83
+        },
+        {
+          "text": "dans",
+          "start": 122.63,
+          "end": 122.99,
+          "confidence": 0.822
+        },
+        {
+          "text": "le",
+          "start": 122.99,
+          "end": 123.11,
+          "confidence": 0.995
+        },
+        {
+          "text": "fond,",
+          "start": 123.11,
+          "end": 123.37,
+          "confidence": 0.962
+        },
+        {
+          "text": "à",
+          "start": 123.43,
+          "end": 123.69,
+          "confidence": 0.944
+        },
+        {
+          "text": "lui",
+          "start": 123.69,
+          "end": 123.93,
+          "confidence": 0.999
+        },
+        {
+          "text": "laisser",
+          "start": 123.93,
+          "end": 124.19,
+          "confidence": 1.0
+        },
+        {
+          "text": "regarder",
+          "start": 124.19,
+          "end": 124.59,
+          "confidence": 0.999
+        },
+        {
+          "text": "la",
+          "start": 124.59,
+          "end": 124.85,
+          "confidence": 1.0
+        },
+        {
+          "text": "télévision.",
+          "start": 124.85,
+          "end": 125.35,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 11468,
+      "start": 125.71,
+      "end": 128.31,
+      "text": " Il a juste envie d'en savoir un peu plus.",
+      "tokens": [
+        50937,
+        4416,
+        257,
+        13016,
+        24149,
+        274,
+        6,
+        268,
+        19345,
+        517,
+        5604,
+        1804,
+        13,
+        51050
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08714312915654146,
+      "compression_ratio": 1.4910394265232976,
+      "no_speech_prob": 0.007009880151599646,
+      "confidence": 0.963,
+      "words": [
+        {
+          "text": "Il",
+          "start": 125.71,
+          "end": 126.23,
+          "confidence": 0.8
+        },
+        {
+          "text": "a",
+          "start": 126.23,
+          "end": 126.39,
+          "confidence": 1.0
+        },
+        {
+          "text": "juste",
+          "start": 126.39,
+          "end": 126.63,
+          "confidence": 1.0
+        },
+        {
+          "text": "envie",
+          "start": 126.63,
+          "end": 127.05,
+          "confidence": 0.998
+        },
+        {
+          "text": "d'en",
+          "start": 127.05,
+          "end": 127.37,
+          "confidence": 0.995
+        },
+        {
+          "text": "savoir",
+          "start": 127.37,
+          "end": 127.61,
+          "confidence": 1.0
+        },
+        {
+          "text": "un",
+          "start": 127.61,
+          "end": 127.83,
+          "confidence": 0.995
+        },
+        {
+          "text": "peu",
+          "start": 127.83,
+          "end": 128.07,
+          "confidence": 1.0
+        },
+        {
+          "text": "plus.",
+          "start": 128.07,
+          "end": 128.31,
+          "confidence": 0.904
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 11468,
+      "start": 128.47,
+      "end": 132.67,
+      "text": " Savoir depuis quand elle s'intéresse à ce sport-là, au rugby,",
+      "tokens": [
+        51075,
+        12346,
+        9043,
+        16062,
+        6932,
+        8404,
+        262,
+        6,
+        36934,
+        22603,
+        1531,
+        1769,
+        7282,
+        12,
+        14972,
+        11,
+        1609,
+        43895,
+        11,
+        51271
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08714312915654146,
+      "compression_ratio": 1.4910394265232976,
+      "no_speech_prob": 0.007009880151599646,
+      "confidence": 0.656,
+      "words": [
+        {
+          "text": "Savoir",
+          "start": 128.47,
+          "end": 129.33,
+          "confidence": 0.511
+        },
+        {
+          "text": "depuis",
+          "start": 129.33,
+          "end": 129.57,
+          "confidence": 0.997
+        },
+        {
+          "text": "quand",
+          "start": 129.57,
+          "end": 129.87,
+          "confidence": 0.998
+        },
+        {
+          "text": "elle",
+          "start": 129.87,
+          "end": 130.11,
+          "confidence": 0.638
+        },
+        {
+          "text": "s'intéresse",
+          "start": 130.11,
+          "end": 130.77,
+          "confidence": 0.999
+        },
+        {
+          "text": "à",
+          "start": 130.77,
+          "end": 130.91,
+          "confidence": 0.773
+        },
+        {
+          "text": "ce",
+          "start": 130.91,
+          "end": 131.15,
+          "confidence": 0.999
+        },
+        {
+          "text": "sport-là,",
+          "start": 131.15,
+          "end": 131.61,
+          "confidence": 0.865
+        },
+        {
+          "text": "au",
+          "start": 131.65,
+          "end": 132.21,
+          "confidence": 0.991
+        },
+        {
+          "text": "rugby,",
+          "start": 132.21,
+          "end": 132.67,
+          "confidence": 0.084
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 11468,
+      "start": 132.95,
+      "end": 137.93,
+      "text": " et savoir s'il s'agit d'un nouvel aspect de ses goûts",
+      "tokens": [
+        51299,
+        1030,
+        19345,
+        262,
+        6,
+        388,
+        262,
+        6,
+        32730,
+        274,
+        6,
+        409,
+        23641,
+        779,
+        4171,
+        368,
+        5385,
+        352,
+        8879,
+        1373,
+        51525
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08714312915654146,
+      "compression_ratio": 1.4910394265232976,
+      "no_speech_prob": 0.007009880151599646,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "et",
+          "start": 132.95,
+          "end": 133.61,
+          "confidence": 0.986
+        },
+        {
+          "text": "savoir",
+          "start": 133.61,
+          "end": 134.25,
+          "confidence": 0.994
+        },
+        {
+          "text": "s'il",
+          "start": 134.25,
+          "end": 134.75,
+          "confidence": 0.997
+        },
+        {
+          "text": "s'agit",
+          "start": 134.75,
+          "end": 135.23,
+          "confidence": 0.998
+        },
+        {
+          "text": "d'un",
+          "start": 135.23,
+          "end": 135.95,
+          "confidence": 0.963
+        },
+        {
+          "text": "nouvel",
+          "start": 135.95,
+          "end": 136.85,
+          "confidence": 0.983
+        },
+        {
+          "text": "aspect",
+          "start": 136.85,
+          "end": 137.15,
+          "confidence": 0.992
+        },
+        {
+          "text": "de",
+          "start": 137.15,
+          "end": 137.31,
+          "confidence": 0.983
+        },
+        {
+          "text": "ses",
+          "start": 137.31,
+          "end": 137.55,
+          "confidence": 0.961
+        },
+        {
+          "text": "goûts",
+          "start": 137.55,
+          "end": 137.93,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 11468,
+      "start": 137.93,
+      "end": 143.75,
+      "text": " ou s'il y a quelque chose de plus ancien dont elle ne lui avait jamais parlé jusqu'à présent.",
+      "tokens": [
+        51525,
+        2820,
+        262,
+        6,
+        388,
+        288,
+        257,
+        14448,
+        5111,
+        368,
+        1804,
+        34856,
+        268,
+        9400,
+        8404,
+        408,
+        8783,
+        11853,
+        14540,
+        38570,
+        20340,
+        6,
+        1467,
+        26056,
+        13,
+        51822
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08714312915654146,
+      "compression_ratio": 1.4910394265232976,
+      "no_speech_prob": 0.007009880151599646,
+      "confidence": 0.968,
+      "words": [
+        {
+          "text": "ou",
+          "start": 137.93,
+          "end": 138.27,
+          "confidence": 0.922
+        },
+        {
+          "text": "s'il",
+          "start": 138.27,
+          "end": 138.75,
+          "confidence": 0.913
+        },
+        {
+          "text": "y",
+          "start": 138.75,
+          "end": 138.93,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 138.93,
+          "end": 139.07,
+          "confidence": 1.0
+        },
+        {
+          "text": "quelque",
+          "start": 139.07,
+          "end": 139.29,
+          "confidence": 1.0
+        },
+        {
+          "text": "chose",
+          "start": 139.29,
+          "end": 139.63,
+          "confidence": 1.0
+        },
+        {
+          "text": "de",
+          "start": 139.63,
+          "end": 139.83,
+          "confidence": 0.993
+        },
+        {
+          "text": "plus",
+          "start": 139.83,
+          "end": 140.07,
+          "confidence": 0.999
+        },
+        {
+          "text": "ancien",
+          "start": 140.07,
+          "end": 140.65,
+          "confidence": 0.993
+        },
+        {
+          "text": "dont",
+          "start": 140.65,
+          "end": 141.21,
+          "confidence": 0.8
+        },
+        {
+          "text": "elle",
+          "start": 141.21,
+          "end": 141.49,
+          "confidence": 0.993
+        },
+        {
+          "text": "ne",
+          "start": 141.49,
+          "end": 141.61,
+          "confidence": 1.0
+        },
+        {
+          "text": "lui",
+          "start": 141.61,
+          "end": 141.75,
+          "confidence": 1.0
+        },
+        {
+          "text": "avait",
+          "start": 141.75,
+          "end": 141.99,
+          "confidence": 1.0
+        },
+        {
+          "text": "jamais",
+          "start": 141.99,
+          "end": 142.41,
+          "confidence": 0.999
+        },
+        {
+          "text": "parlé",
+          "start": 142.41,
+          "end": 142.81,
+          "confidence": 1.0
+        },
+        {
+          "text": "jusqu'à",
+          "start": 142.81,
+          "end": 143.41,
+          "confidence": 0.999
+        },
+        {
+          "text": "présent.",
+          "start": 143.41,
+          "end": 143.75,
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 14468,
+      "start": 144.75,
+      "end": 146.2,
+      "text": " Louise va alors lui répondre",
+      "tokens": [
+        50365,
+        35962,
+        2773,
+        11246,
+        8783,
+        40139,
+        50434
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09243249893188477,
+      "compression_ratio": 1.4732142857142858,
+      "no_speech_prob": 0.0005033197812736034,
+      "confidence": 0.906,
+      "words": [
+        {
+          "text": "Louise",
+          "start": 144.75,
+          "end": 145.44,
+          "confidence": 0.737
+        },
+        {
+          "text": "va",
+          "start": 145.44,
+          "end": 145.58,
+          "confidence": 0.988
+        },
+        {
+          "text": "alors",
+          "start": 145.58,
+          "end": 145.76,
+          "confidence": 0.843
+        },
+        {
+          "text": "lui",
+          "start": 145.76,
+          "end": 145.88,
+          "confidence": 0.997
+        },
+        {
+          "text": "répondre",
+          "start": 145.88,
+          "end": 146.2,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 14468,
+      "start": 154.26,
+      "end": 158.68,
+      "text": " Louise reconnaît qu'elle n'a jamais vraiment parlé de ça auparavant.",
+      "tokens": [
+        50434,
+        35962,
+        31073,
+        20028,
+        421,
+        6,
+        4434,
+        297,
+        6,
+        64,
+        14540,
+        8322,
+        38570,
+        368,
+        2788,
+        257,
+        1010,
+        289,
+        35034,
+        13,
+        51053
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09243249893188477,
+      "compression_ratio": 1.4732142857142858,
+      "no_speech_prob": 0.0005033197812736034,
+      "confidence": 0.982,
+      "words": [
+        {
+          "text": "Louise",
+          "start": 154.26,
+          "end": 154.28,
+          "confidence": 0.82
+        },
+        {
+          "text": "reconnaît",
+          "start": 154.28,
+          "end": 155.14,
+          "confidence": 0.983
+        },
+        {
+          "text": "qu'elle",
+          "start": 155.14,
+          "end": 155.4,
+          "confidence": 0.991
+        },
+        {
+          "text": "n'a",
+          "start": 155.4,
+          "end": 155.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "jamais",
+          "start": 155.66,
+          "end": 156.0,
+          "confidence": 0.994
+        },
+        {
+          "text": "vraiment",
+          "start": 156.0,
+          "end": 156.5,
+          "confidence": 0.983
+        },
+        {
+          "text": "parlé",
+          "start": 156.5,
+          "end": 157.14,
+          "confidence": 0.994
+        },
+        {
+          "text": "de",
+          "start": 157.14,
+          "end": 157.36,
+          "confidence": 0.993
+        },
+        {
+          "text": "ça",
+          "start": 157.36,
+          "end": 157.7,
+          "confidence": 0.999
+        },
+        {
+          "text": "auparavant.",
+          "start": 157.7,
+          "end": 158.68,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 14468,
+      "start": 158.84,
+      "end": 164.58,
+      "text": " C'est bel et bien la première fois qu'ils abordent le sujet de son amour pour le rugby.",
+      "tokens": [
+        51081,
+        383,
+        6,
+        377,
+        989,
+        1030,
+        3610,
+        635,
+        17872,
+        9576,
+        421,
+        6,
+        4174,
+        48727,
+        317,
+        476,
+        23634,
+        368,
+        1872,
+        669,
+        396,
+        2016,
+        476,
+        43895,
+        13,
+        51350
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09243249893188477,
+      "compression_ratio": 1.4732142857142858,
+      "no_speech_prob": 0.0005033197812736034,
+      "confidence": 0.991,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 158.84,
+          "end": 159.44,
+          "confidence": 0.969
+        },
+        {
+          "text": "bel",
+          "start": 159.44,
+          "end": 159.58,
+          "confidence": 0.996
+        },
+        {
+          "text": "et",
+          "start": 159.58,
+          "end": 159.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "bien",
+          "start": 159.68,
+          "end": 159.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "la",
+          "start": 159.88,
+          "end": 160.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "première",
+          "start": 160.0,
+          "end": 160.44,
+          "confidence": 0.998
+        },
+        {
+          "text": "fois",
+          "start": 160.44,
+          "end": 160.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "qu'ils",
+          "start": 160.74,
+          "end": 160.98,
+          "confidence": 0.979
+        },
+        {
+          "text": "abordent",
+          "start": 160.98,
+          "end": 161.56,
+          "confidence": 0.998
+        },
+        {
+          "text": "le",
+          "start": 161.56,
+          "end": 161.66,
+          "confidence": 0.997
+        },
+        {
+          "text": "sujet",
+          "start": 161.66,
+          "end": 162.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "de",
+          "start": 162.18,
+          "end": 162.76,
+          "confidence": 0.982
+        },
+        {
+          "text": "son",
+          "start": 162.76,
+          "end": 162.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "amour",
+          "start": 162.96,
+          "end": 163.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "pour",
+          "start": 163.48,
+          "end": 163.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "le",
+          "start": 163.82,
+          "end": 164.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "rugby.",
+          "start": 164.04,
+          "end": 164.58,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 14468,
+      "start": 164.9,
+      "end": 171.54,
+      "text": " Mais elle explique que ça fait un petit moment qu'elle s'intéresse et qu'elle suit les matchs de rugby.",
+      "tokens": [
+        51384,
+        6313,
+        8404,
+        1490,
+        1925,
+        631,
+        2788,
+        3887,
+        517,
+        9686,
+        1623,
+        421,
+        6,
+        4434,
+        262,
+        6,
+        36934,
+        22603,
+        1030,
+        421,
+        6,
+        4434,
+        5722,
+        1512,
+        2995,
+        82,
+        368,
+        43895,
+        13,
+        51701
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09243249893188477,
+      "compression_ratio": 1.4732142857142858,
+      "no_speech_prob": 0.0005033197812736034,
+      "confidence": 0.991,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 164.9,
+          "end": 165.48,
+          "confidence": 0.888
+        },
+        {
+          "text": "elle",
+          "start": 165.48,
+          "end": 165.66,
+          "confidence": 0.998
+        },
+        {
+          "text": "explique",
+          "start": 165.66,
+          "end": 166.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "que",
+          "start": 166.16,
+          "end": 166.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "ça",
+          "start": 166.72,
+          "end": 166.92,
+          "confidence": 0.998
+        },
+        {
+          "text": "fait",
+          "start": 166.92,
+          "end": 167.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "un",
+          "start": 167.14,
+          "end": 167.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "petit",
+          "start": 167.36,
+          "end": 167.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "moment",
+          "start": 167.74,
+          "end": 168.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "qu'elle",
+          "start": 168.08,
+          "end": 168.6,
+          "confidence": 0.993
+        },
+        {
+          "text": "s'intéresse",
+          "start": 168.6,
+          "end": 169.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "et",
+          "start": 169.28,
+          "end": 169.52,
+          "confidence": 0.96
+        },
+        {
+          "text": "qu'elle",
+          "start": 169.52,
+          "end": 169.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "suit",
+          "start": 169.82,
+          "end": 170.08,
+          "confidence": 0.981
+        },
+        {
+          "text": "les",
+          "start": 170.08,
+          "end": 170.56,
+          "confidence": 0.995
+        },
+        {
+          "text": "matchs",
+          "start": 170.56,
+          "end": 171.04,
+          "confidence": 0.994
+        },
+        {
+          "text": "de",
+          "start": 171.04,
+          "end": 171.26,
+          "confidence": 0.999
+        },
+        {
+          "text": "rugby.",
+          "start": 171.26,
+          "end": 171.54,
+          "confidence": 0.988
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 14468,
+      "start": 172.32,
+      "end": 174.42,
+      "text": " Ça remonte même à son enfance.",
+      "tokens": [
+        51709,
+        11527,
+        890,
+        10219,
+        5698,
+        1531,
+        1872,
+        10667,
+        719,
+        13,
+        51843
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09243249893188477,
+      "compression_ratio": 1.4732142857142858,
+      "no_speech_prob": 0.0005033197812736034,
+      "confidence": 0.802,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 172.32,
+          "end": 172.34,
+          "confidence": 0.241
+        },
+        {
+          "text": "remonte",
+          "start": 172.34,
+          "end": 172.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "même",
+          "start": 172.86,
+          "end": 173.14,
+          "confidence": 0.996
+        },
+        {
+          "text": "à",
+          "start": 173.14,
+          "end": 173.5,
+          "confidence": 0.979
+        },
+        {
+          "text": "son",
+          "start": 173.5,
+          "end": 173.84,
+          "confidence": 0.997
+        },
+        {
+          "text": "enfance.",
+          "start": 173.84,
+          "end": 174.42,
+          "confidence": 0.837
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 17468,
+      "start": 174.52,
+      "end": 181.48,
+      "text": " C'est pour ça qu'il y a un lien important pour elle avec ce sport, car elle le regardait avec ses parents.",
+      "tokens": [
+        50365,
+        383,
+        6,
+        377,
+        2016,
+        2788,
+        421,
+        6,
+        388,
+        288,
+        257,
+        517,
+        32553,
+        1021,
+        2016,
+        8404,
+        4163,
+        1769,
+        7282,
+        11,
+        1032,
+        8404,
+        476,
+        3843,
+        1001,
+        4163,
+        5385,
+        3152,
+        13,
+        50693
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0954450824396397,
+      "compression_ratio": 1.5934065934065933,
+      "no_speech_prob": 0.0006771744228899479,
+      "confidence": 0.956,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 174.52,
+          "end": 175.2,
+          "confidence": 0.949
+        },
+        {
+          "text": "pour",
+          "start": 175.2,
+          "end": 175.32,
+          "confidence": 0.999
+        },
+        {
+          "text": "ça",
+          "start": 175.32,
+          "end": 175.5,
+          "confidence": 0.984
+        },
+        {
+          "text": "qu'il",
+          "start": 175.5,
+          "end": 175.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "y",
+          "start": 175.7,
+          "end": 175.8,
+          "confidence": 0.998
+        },
+        {
+          "text": "a",
+          "start": 175.8,
+          "end": 175.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "un",
+          "start": 175.96,
+          "end": 176.34,
+          "confidence": 0.994
+        },
+        {
+          "text": "lien",
+          "start": 176.34,
+          "end": 176.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "important",
+          "start": 176.7,
+          "end": 177.54,
+          "confidence": 0.97
+        },
+        {
+          "text": "pour",
+          "start": 177.54,
+          "end": 178.14,
+          "confidence": 0.995
+        },
+        {
+          "text": "elle",
+          "start": 178.14,
+          "end": 178.44,
+          "confidence": 0.996
+        },
+        {
+          "text": "avec",
+          "start": 178.44,
+          "end": 178.7,
+          "confidence": 0.992
+        },
+        {
+          "text": "ce",
+          "start": 178.7,
+          "end": 179.0,
+          "confidence": 0.998
+        },
+        {
+          "text": "sport,",
+          "start": 179.0,
+          "end": 179.36,
+          "confidence": 0.731
+        },
+        {
+          "text": "car",
+          "start": 179.52,
+          "end": 179.74,
+          "confidence": 0.788
+        },
+        {
+          "text": "elle",
+          "start": 179.74,
+          "end": 179.92,
+          "confidence": 0.999
+        },
+        {
+          "text": "le",
+          "start": 179.92,
+          "end": 180.06,
+          "confidence": 0.895
+        },
+        {
+          "text": "regardait",
+          "start": 180.06,
+          "end": 180.6,
+          "confidence": 0.999
+        },
+        {
+          "text": "avec",
+          "start": 180.6,
+          "end": 180.8,
+          "confidence": 0.965
+        },
+        {
+          "text": "ses",
+          "start": 180.8,
+          "end": 181.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "parents.",
+          "start": 181.02,
+          "end": 181.48,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 17468,
+      "start": 181.94,
+      "end": 188.04,
+      "text": " Elle a de bons souvenirs familiaux et elle aime bien, de temps en temps, regarder certains matchs.",
+      "tokens": [
+        50736,
+        16227,
+        257,
+        368,
+        33922,
+        46509,
+        12983,
+        24050,
+        2449,
+        1030,
+        8404,
+        46527,
+        3610,
+        11,
+        368,
+        8827,
+        465,
+        8827,
+        11,
+        31468,
+        25263,
+        2995,
+        82,
+        13,
+        51056
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0954450824396397,
+      "compression_ratio": 1.5934065934065933,
+      "no_speech_prob": 0.0006771744228899479,
+      "confidence": 0.806,
+      "words": [
+        {
+          "text": "Elle",
+          "start": 181.94,
+          "end": 182.44,
+          "confidence": 0.925
+        },
+        {
+          "text": "a",
+          "start": 182.44,
+          "end": 182.6,
+          "confidence": 0.999
+        },
+        {
+          "text": "de",
+          "start": 182.6,
+          "end": 182.72,
+          "confidence": 0.997
+        },
+        {
+          "text": "bons",
+          "start": 182.72,
+          "end": 182.92,
+          "confidence": 0.996
+        },
+        {
+          "text": "souvenirs",
+          "start": 182.92,
+          "end": 183.46,
+          "confidence": 0.999
+        },
+        {
+          "text": "familiaux",
+          "start": 183.46,
+          "end": 184.32,
+          "confidence": 0.999
+        },
+        {
+          "text": "et",
+          "start": 184.32,
+          "end": 184.94,
+          "confidence": 0.909
+        },
+        {
+          "text": "elle",
+          "start": 184.94,
+          "end": 185.12,
+          "confidence": 0.912
+        },
+        {
+          "text": "aime",
+          "start": 185.12,
+          "end": 185.34,
+          "confidence": 0.999
+        },
+        {
+          "text": "bien,",
+          "start": 185.34,
+          "end": 185.52,
+          "confidence": 0.19
+        },
+        {
+          "text": "de",
+          "start": 185.58,
+          "end": 185.7,
+          "confidence": 0.992
+        },
+        {
+          "text": "temps",
+          "start": 185.7,
+          "end": 185.92,
+          "confidence": 0.998
+        },
+        {
+          "text": "en",
+          "start": 185.92,
+          "end": 186.08,
+          "confidence": 0.995
+        },
+        {
+          "text": "temps,",
+          "start": 186.08,
+          "end": 186.36,
+          "confidence": 0.991
+        },
+        {
+          "text": "regarder",
+          "start": 186.4,
+          "end": 186.88,
+          "confidence": 0.929
+        },
+        {
+          "text": "certains",
+          "start": 186.88,
+          "end": 187.46,
+          "confidence": 0.98
+        },
+        {
+          "text": "matchs.",
+          "start": 187.46,
+          "end": 188.04,
+          "confidence": 0.663
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 17468,
+      "start": 188.38,
+      "end": 190.44,
+      "text": " Ça lui rappelle sa jeunesse.",
+      "tokens": [
+        51056,
+        11527,
+        8783,
+        43736,
+        601,
+        1506,
+        409,
+        7357,
+        13,
+        51141
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0954450824396397,
+      "compression_ratio": 1.5934065934065933,
+      "no_speech_prob": 0.0006771744228899479,
+      "confidence": 0.914,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 188.38,
+          "end": 189.08,
+          "confidence": 0.765
+        },
+        {
+          "text": "lui",
+          "start": 189.08,
+          "end": 189.24,
+          "confidence": 0.998
+        },
+        {
+          "text": "rappelle",
+          "start": 189.24,
+          "end": 189.64,
+          "confidence": 0.999
+        },
+        {
+          "text": "sa",
+          "start": 189.64,
+          "end": 189.84,
+          "confidence": 0.997
+        },
+        {
+          "text": "jeunesse.",
+          "start": 189.84,
+          "end": 190.44,
+          "confidence": 0.894
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 17468,
+      "start": 190.64,
+      "end": 193.62,
+      "text": " Il y a donc une forme de nostalgie chez elle",
+      "tokens": [
+        51171,
+        4416,
+        288,
+        257,
+        5926,
+        2251,
+        28670,
+        368,
+        10397,
+        304,
+        9997,
+        17855,
+        8404,
+        51299
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0954450824396397,
+      "compression_ratio": 1.5934065934065933,
+      "no_speech_prob": 0.0006771744228899479,
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Il",
+          "start": 190.64,
+          "end": 191.1,
+          "confidence": 0.835
+        },
+        {
+          "text": "y",
+          "start": 191.1,
+          "end": 191.22,
+          "confidence": 0.997
+        },
+        {
+          "text": "a",
+          "start": 191.22,
+          "end": 191.34,
+          "confidence": 0.998
+        },
+        {
+          "text": "donc",
+          "start": 191.34,
+          "end": 191.52,
+          "confidence": 0.993
+        },
+        {
+          "text": "une",
+          "start": 191.52,
+          "end": 191.88,
+          "confidence": 0.996
+        },
+        {
+          "text": "forme",
+          "start": 191.88,
+          "end": 192.14,
+          "confidence": 0.997
+        },
+        {
+          "text": "de",
+          "start": 192.14,
+          "end": 192.36,
+          "confidence": 0.997
+        },
+        {
+          "text": "nostalgie",
+          "start": 192.36,
+          "end": 192.98,
+          "confidence": 0.994
+        },
+        {
+          "text": "chez",
+          "start": 192.98,
+          "end": 193.26,
+          "confidence": 0.967
+        },
+        {
+          "text": "elle",
+          "start": 193.26,
+          "end": 193.62,
+          "confidence": 0.893
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 17468,
+      "start": 193.62,
+      "end": 199.84,
+      "text": " et un côté agréable à pouvoir profiter d'un match à la télévision ou dans un stade.",
+      "tokens": [
+        51299,
+        1030,
+        517,
+        18437,
+        623,
+        10521,
+        712,
+        1531,
+        14874,
+        1740,
+        1681,
+        274,
+        6,
+        409,
+        2995,
+        1531,
+        635,
+        24254,
+        6763,
+        2820,
+        2680,
+        517,
+        342,
+        762,
+        13,
+        51611
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0954450824396397,
+      "compression_ratio": 1.5934065934065933,
+      "no_speech_prob": 0.0006771744228899479,
+      "confidence": 0.984,
+      "words": [
+        {
+          "text": "et",
+          "start": 193.62,
+          "end": 194.02,
+          "confidence": 0.962
+        },
+        {
+          "text": "un",
+          "start": 194.02,
+          "end": 194.14,
+          "confidence": 0.996
+        },
+        {
+          "text": "côté",
+          "start": 194.14,
+          "end": 194.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "agréable",
+          "start": 194.44,
+          "end": 195.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "à",
+          "start": 195.36,
+          "end": 195.56,
+          "confidence": 0.854
+        },
+        {
+          "text": "pouvoir",
+          "start": 195.56,
+          "end": 195.92,
+          "confidence": 0.999
+        },
+        {
+          "text": "profiter",
+          "start": 195.92,
+          "end": 196.7,
+          "confidence": 0.995
+        },
+        {
+          "text": "d'un",
+          "start": 196.7,
+          "end": 197.22,
+          "confidence": 0.988
+        },
+        {
+          "text": "match",
+          "start": 197.22,
+          "end": 197.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "à",
+          "start": 197.5,
+          "end": 198.0,
+          "confidence": 0.954
+        },
+        {
+          "text": "la",
+          "start": 198.0,
+          "end": 198.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "télévision",
+          "start": 198.12,
+          "end": 198.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "ou",
+          "start": 198.72,
+          "end": 199.12,
+          "confidence": 0.944
+        },
+        {
+          "text": "dans",
+          "start": 199.12,
+          "end": 199.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "un",
+          "start": 199.32,
+          "end": 199.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "stade.",
+          "start": 199.48,
+          "end": 199.84,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 17468,
+      "start": 200.08,
+      "end": 204.1,
+      "text": " Il y a une émotion particulière quand elle regarde ce sport,",
+      "tokens": [
+        51643,
+        4416,
+        288,
+        257,
+        2251,
+        1136,
+        44968,
+        21861,
+        10195,
+        6932,
+        8404,
+        33357,
+        1769,
+        7282,
+        11,
+        51827
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0954450824396397,
+      "compression_ratio": 1.5934065934065933,
+      "no_speech_prob": 0.0006771744228899479,
+      "confidence": 0.798,
+      "words": [
+        {
+          "text": "Il",
+          "start": 200.08,
+          "end": 200.56,
+          "confidence": 0.923
+        },
+        {
+          "text": "y",
+          "start": 200.56,
+          "end": 200.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "a",
+          "start": 200.68,
+          "end": 200.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "une",
+          "start": 200.86,
+          "end": 201.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "émotion",
+          "start": 201.04,
+          "end": 201.58,
+          "confidence": 0.999
+        },
+        {
+          "text": "particulière",
+          "start": 201.58,
+          "end": 202.76,
+          "confidence": 0.999
+        },
+        {
+          "text": "quand",
+          "start": 202.76,
+          "end": 203.0,
+          "confidence": 0.958
+        },
+        {
+          "text": "elle",
+          "start": 203.0,
+          "end": 203.16,
+          "confidence": 0.954
+        },
+        {
+          "text": "regarde",
+          "start": 203.16,
+          "end": 203.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "ce",
+          "start": 203.5,
+          "end": 203.78,
+          "confidence": 0.999
+        },
+        {
+          "text": "sport,",
+          "start": 203.78,
+          "end": 204.1,
+          "confidence": 0.225
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 20392,
+      "start": 204.1,
+      "end": 210.22,
+      "text": " qui est liée à la mémoire qu'elle a de sa famille et des bons moments qu'elle a passés avec eux.",
+      "tokens": [
+        50365,
+        1956,
+        871,
+        375,
+        3856,
+        1531,
+        635,
+        13191,
+        3280,
+        621,
+        421,
+        6,
+        4434,
+        257,
+        368,
+        601,
+        28123,
+        1030,
+        730,
+        33922,
+        6065,
+        421,
+        6,
+        4434,
+        257,
+        1320,
+        2191,
+        4163,
+        22648,
+        13,
+        50669
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13445318961630062,
+      "compression_ratio": 1.5309734513274336,
+      "no_speech_prob": 0.0026727167423814535,
+      "confidence": 0.913,
+      "words": [
+        {
+          "text": "qui",
+          "start": 204.1,
+          "end": 204.68,
+          "confidence": 0.898
+        },
+        {
+          "text": "est",
+          "start": 204.68,
+          "end": 204.82,
+          "confidence": 0.29
+        },
+        {
+          "text": "liée",
+          "start": 204.82,
+          "end": 205.16,
+          "confidence": 0.782
+        },
+        {
+          "text": "à",
+          "start": 205.16,
+          "end": 205.46,
+          "confidence": 0.995
+        },
+        {
+          "text": "la",
+          "start": 205.46,
+          "end": 205.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "mémoire",
+          "start": 205.54,
+          "end": 206.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "qu'elle",
+          "start": 206.24,
+          "end": 206.8,
+          "confidence": 0.966
+        },
+        {
+          "text": "a",
+          "start": 206.8,
+          "end": 206.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "de",
+          "start": 206.9,
+          "end": 207.04,
+          "confidence": 0.992
+        },
+        {
+          "text": "sa",
+          "start": 207.04,
+          "end": 207.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "famille",
+          "start": 207.26,
+          "end": 207.64,
+          "confidence": 0.999
+        },
+        {
+          "text": "et",
+          "start": 207.64,
+          "end": 208.02,
+          "confidence": 0.668
+        },
+        {
+          "text": "des",
+          "start": 208.02,
+          "end": 208.18,
+          "confidence": 0.999
+        },
+        {
+          "text": "bons",
+          "start": 208.18,
+          "end": 208.42,
+          "confidence": 0.998
+        },
+        {
+          "text": "moments",
+          "start": 208.42,
+          "end": 208.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "qu'elle",
+          "start": 208.7,
+          "end": 209.0,
+          "confidence": 0.998
+        },
+        {
+          "text": "a",
+          "start": 209.0,
+          "end": 209.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "passés",
+          "start": 209.08,
+          "end": 209.54,
+          "confidence": 0.885
+        },
+        {
+          "text": "avec",
+          "start": 209.54,
+          "end": 209.98,
+          "confidence": 0.999
+        },
+        {
+          "text": "eux.",
+          "start": 209.98,
+          "end": 210.22,
+          "confidence": 0.985
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 20392,
+      "start": 211.15,
+      "end": 212.89,
+      "text": " Julien va leur conclure en disant",
+      "tokens": [
+        50719,
+        7174,
+        1053,
+        2773,
+        9580,
+        1588,
+        75,
+        540,
+        465,
+        717,
+        394,
+        50783
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13445318961630062,
+      "compression_ratio": 1.5309734513274336,
+      "no_speech_prob": 0.0026727167423814535,
+      "confidence": 0.836,
+      "words": [
+        {
+          "text": "Julien",
+          "start": 211.15,
+          "end": 211.79,
+          "confidence": 0.879
+        },
+        {
+          "text": "va",
+          "start": 211.79,
+          "end": 211.87,
+          "confidence": 0.994
+        },
+        {
+          "text": "leur",
+          "start": 211.87,
+          "end": 212.03,
+          "confidence": 0.218
+        },
+        {
+          "text": "conclure",
+          "start": 212.03,
+          "end": 212.45,
+          "confidence": 0.999
+        },
+        {
+          "text": "en",
+          "start": 212.45,
+          "end": 212.53,
+          "confidence": 0.996
+        },
+        {
+          "text": "disant",
+          "start": 212.53,
+          "end": 212.89,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 20392,
+      "start": 219.97,
+      "end": 227.43,
+      "text": " Julien n'a évidemment aucun problème sur le fait que Louise puisse regarder à la télévision le match de rugby",
+      "tokens": [
+        50783,
+        7174,
+        1053,
+        297,
+        6,
+        64,
+        24724,
+        35361,
+        21111,
+        1022,
+        476,
+        3887,
+        631,
+        35962,
+        42363,
+        31468,
+        1531,
+        635,
+        24254,
+        6763,
+        476,
+        2995,
+        368,
+        43895,
+        51490
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13445318961630062,
+      "compression_ratio": 1.5309734513274336,
+      "no_speech_prob": 0.0026727167423814535,
+      "confidence": 0.839,
+      "words": [
+        {
+          "text": "Julien",
+          "start": 219.97,
+          "end": 220.71,
+          "confidence": 0.206
+        },
+        {
+          "text": "n'a",
+          "start": 220.71,
+          "end": 221.13,
+          "confidence": 0.958
+        },
+        {
+          "text": "évidemment",
+          "start": 221.13,
+          "end": 221.67,
+          "confidence": 0.988
+        },
+        {
+          "text": "aucun",
+          "start": 221.67,
+          "end": 222.01,
+          "confidence": 0.996
+        },
+        {
+          "text": "problème",
+          "start": 222.01,
+          "end": 222.43,
+          "confidence": 0.997
+        },
+        {
+          "text": "sur",
+          "start": 222.43,
+          "end": 223.19,
+          "confidence": 0.739
+        },
+        {
+          "text": "le",
+          "start": 223.19,
+          "end": 223.37,
+          "confidence": 1.0
+        },
+        {
+          "text": "fait",
+          "start": 223.37,
+          "end": 223.63,
+          "confidence": 1.0
+        },
+        {
+          "text": "que",
+          "start": 223.63,
+          "end": 223.87,
+          "confidence": 0.988
+        },
+        {
+          "text": "Louise",
+          "start": 223.87,
+          "end": 224.15,
+          "confidence": 0.727
+        },
+        {
+          "text": "puisse",
+          "start": 224.15,
+          "end": 224.43,
+          "confidence": 0.998
+        },
+        {
+          "text": "regarder",
+          "start": 224.43,
+          "end": 224.81,
+          "confidence": 0.999
+        },
+        {
+          "text": "à",
+          "start": 224.81,
+          "end": 225.47,
+          "confidence": 0.962
+        },
+        {
+          "text": "la",
+          "start": 225.47,
+          "end": 225.61,
+          "confidence": 1.0
+        },
+        {
+          "text": "télévision",
+          "start": 225.61,
+          "end": 226.29,
+          "confidence": 0.988
+        },
+        {
+          "text": "le",
+          "start": 226.29,
+          "end": 226.65,
+          "confidence": 0.962
+        },
+        {
+          "text": "match",
+          "start": 226.65,
+          "end": 226.95,
+          "confidence": 1.0
+        },
+        {
+          "text": "de",
+          "start": 226.95,
+          "end": 227.15,
+          "confidence": 0.999
+        },
+        {
+          "text": "rugby",
+          "start": 227.15,
+          "end": 227.43,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 20392,
+      "start": 228.23,
+      "end": 232.21,
+      "text": " et lui propose même, si elle est ok, de regarder le match avec elle.",
+      "tokens": [
+        51490,
+        1030,
+        8783,
+        17421,
+        5698,
+        11,
+        1511,
+        8404,
+        871,
+        3133,
+        11,
+        368,
+        31468,
+        476,
+        2995,
+        4163,
+        8404,
+        13,
+        51724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13445318961630062,
+      "compression_ratio": 1.5309734513274336,
+      "no_speech_prob": 0.0026727167423814535,
+      "confidence": 0.822,
+      "words": [
+        {
+          "text": "et",
+          "start": 228.23,
+          "end": 228.25,
+          "confidence": 0.111
+        },
+        {
+          "text": "lui",
+          "start": 228.25,
+          "end": 228.33,
+          "confidence": 0.988
+        },
+        {
+          "text": "propose",
+          "start": 228.33,
+          "end": 228.67,
+          "confidence": 0.994
+        },
+        {
+          "text": "même,",
+          "start": 228.67,
+          "end": 228.99,
+          "confidence": 0.812
+        },
+        {
+          "text": "si",
+          "start": 229.07,
+          "end": 229.45,
+          "confidence": 0.969
+        },
+        {
+          "text": "elle",
+          "start": 229.45,
+          "end": 229.65,
+          "confidence": 0.995
+        },
+        {
+          "text": "est",
+          "start": 229.65,
+          "end": 229.79,
+          "confidence": 0.997
+        },
+        {
+          "text": "ok,",
+          "start": 229.79,
+          "end": 230.09,
+          "confidence": 0.783
+        },
+        {
+          "text": "de",
+          "start": 230.25,
+          "end": 230.59,
+          "confidence": 0.897
+        },
+        {
+          "text": "regarder",
+          "start": 230.59,
+          "end": 230.95,
+          "confidence": 0.999
+        },
+        {
+          "text": "le",
+          "start": 230.95,
+          "end": 231.23,
+          "confidence": 0.998
+        },
+        {
+          "text": "match",
+          "start": 231.23,
+          "end": 231.51,
+          "confidence": 1.0
+        },
+        {
+          "text": "avec",
+          "start": 231.51,
+          "end": 231.89,
+          "confidence": 0.998
+        },
+        {
+          "text": "elle.",
+          "start": 231.89,
+          "end": 232.21,
+          "confidence": 0.974
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 20392,
+      "start": 233.13,
+      "end": 234.83,
+      "text": " Il n'est pas vraiment fan.",
+      "tokens": [
+        51760,
+        4416,
+        297,
+        6,
+        377,
+        1736,
+        8322,
+        3429,
+        13,
+        51851
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13445318961630062,
+      "compression_ratio": 1.5309734513274336,
+      "no_speech_prob": 0.0026727167423814535,
+      "confidence": 0.735,
+      "words": [
+        {
+          "text": "Il",
+          "start": 233.13,
+          "end": 233.65,
+          "confidence": 0.717
+        },
+        {
+          "text": "n'est",
+          "start": 233.65,
+          "end": 233.99,
+          "confidence": 1.0
+        },
+        {
+          "text": "pas",
+          "start": 233.99,
+          "end": 234.17,
+          "confidence": 1.0
+        },
+        {
+          "text": "vraiment",
+          "start": 234.17,
+          "end": 234.43,
+          "confidence": 0.996
+        },
+        {
+          "text": "fan.",
+          "start": 234.43,
+          "end": 234.83,
+          "confidence": 0.345
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 23392,
+      "start": 234.83,
+      "end": 237.93,
+      "text": " De rugby, à la base, comme il l'explique,",
+      "tokens": [
+        50365,
+        1346,
+        43895,
+        11,
+        1531,
+        635,
+        3096,
+        11,
+        5173,
+        1930,
+        287,
+        6,
+        23040,
+        1925,
+        11,
+        50499
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09446127319335937,
+      "compression_ratio": 1.6290909090909091,
+      "no_speech_prob": 0.045318327844142914,
+      "confidence": 0.632,
+      "words": [
+        {
+          "text": "De",
+          "start": 234.83,
+          "end": 235.41,
+          "confidence": 0.048
+        },
+        {
+          "text": "rugby,",
+          "start": 235.41,
+          "end": 235.87,
+          "confidence": 0.764
+        },
+        {
+          "text": "à",
+          "start": 236.05,
+          "end": 236.37,
+          "confidence": 0.995
+        },
+        {
+          "text": "la",
+          "start": 236.37,
+          "end": 236.49,
+          "confidence": 1.0
+        },
+        {
+          "text": "base,",
+          "start": 236.49,
+          "end": 236.85,
+          "confidence": 0.954
+        },
+        {
+          "text": "comme",
+          "start": 236.87,
+          "end": 237.19,
+          "confidence": 0.933
+        },
+        {
+          "text": "il",
+          "start": 237.19,
+          "end": 237.35,
+          "confidence": 0.988
+        },
+        {
+          "text": "l'explique,",
+          "start": 237.35,
+          "end": 237.93,
+          "confidence": 0.587
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 23392,
+      "start": 237.97,
+      "end": 241.63,
+      "text": " car il lui demande si elle pourra lui expliquer les règles,",
+      "tokens": [
+        50523,
+        1032,
+        1930,
+        8783,
+        26982,
+        1511,
+        8404,
+        37753,
+        8783,
+        1490,
+        23909,
+        1512,
+        43659,
+        904,
+        11,
+        50683
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09446127319335937,
+      "compression_ratio": 1.6290909090909091,
+      "no_speech_prob": 0.045318327844142914,
+      "confidence": 0.879,
+      "words": [
+        {
+          "text": "car",
+          "start": 237.97,
+          "end": 238.61,
+          "confidence": 0.955
+        },
+        {
+          "text": "il",
+          "start": 238.61,
+          "end": 239.03,
+          "confidence": 0.99
+        },
+        {
+          "text": "lui",
+          "start": 239.03,
+          "end": 239.19,
+          "confidence": 1.0
+        },
+        {
+          "text": "demande",
+          "start": 239.19,
+          "end": 239.49,
+          "confidence": 1.0
+        },
+        {
+          "text": "si",
+          "start": 239.49,
+          "end": 239.71,
+          "confidence": 0.95
+        },
+        {
+          "text": "elle",
+          "start": 239.71,
+          "end": 239.83,
+          "confidence": 0.995
+        },
+        {
+          "text": "pourra",
+          "start": 239.83,
+          "end": 240.09,
+          "confidence": 0.988
+        },
+        {
+          "text": "lui",
+          "start": 240.09,
+          "end": 240.31,
+          "confidence": 0.953
+        },
+        {
+          "text": "expliquer",
+          "start": 240.31,
+          "end": 241.01,
+          "confidence": 0.992
+        },
+        {
+          "text": "les",
+          "start": 241.01,
+          "end": 241.21,
+          "confidence": 0.989
+        },
+        {
+          "text": "règles,",
+          "start": 241.21,
+          "end": 241.63,
+          "confidence": 0.584
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 23392,
+      "start": 241.63,
+      "end": 245.91,
+      "text": " ce qui montre qu'il ne connaît pas et ne comprend pas bien encore ce sport.",
+      "tokens": [
+        50703,
+        1769,
+        1956,
+        44132,
+        421,
+        6,
+        388,
+        408,
+        15477,
+        20028,
+        1736,
+        1030,
+        408,
+        30765,
+        1736,
+        3610,
+        10122,
+        1769,
+        7282,
+        13,
+        50905
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09446127319335937,
+      "compression_ratio": 1.6290909090909091,
+      "no_speech_prob": 0.045318327844142914,
+      "confidence": 0.982,
+      "words": [
+        {
+          "text": "ce",
+          "start": 241.63,
+          "end": 242.09,
+          "confidence": 0.876
+        },
+        {
+          "text": "qui",
+          "start": 242.09,
+          "end": 242.21,
+          "confidence": 1.0
+        },
+        {
+          "text": "montre",
+          "start": 242.21,
+          "end": 242.51,
+          "confidence": 1.0
+        },
+        {
+          "text": "qu'il",
+          "start": 242.51,
+          "end": 242.83,
+          "confidence": 0.994
+        },
+        {
+          "text": "ne",
+          "start": 242.83,
+          "end": 242.97,
+          "confidence": 1.0
+        },
+        {
+          "text": "connaît",
+          "start": 242.97,
+          "end": 243.39,
+          "confidence": 0.968
+        },
+        {
+          "text": "pas",
+          "start": 243.39,
+          "end": 243.59,
+          "confidence": 1.0
+        },
+        {
+          "text": "et",
+          "start": 243.59,
+          "end": 243.91,
+          "confidence": 0.938
+        },
+        {
+          "text": "ne",
+          "start": 243.91,
+          "end": 244.09,
+          "confidence": 1.0
+        },
+        {
+          "text": "comprend",
+          "start": 244.09,
+          "end": 244.47,
+          "confidence": 1.0
+        },
+        {
+          "text": "pas",
+          "start": 244.47,
+          "end": 244.75,
+          "confidence": 0.999
+        },
+        {
+          "text": "bien",
+          "start": 244.75,
+          "end": 245.01,
+          "confidence": 0.999
+        },
+        {
+          "text": "encore",
+          "start": 245.01,
+          "end": 245.29,
+          "confidence": 0.999
+        },
+        {
+          "text": "ce",
+          "start": 245.29,
+          "end": 245.59,
+          "confidence": 0.999
+        },
+        {
+          "text": "sport.",
+          "start": 245.59,
+          "end": 245.91,
+          "confidence": 0.974
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 23392,
+      "start": 246.05,
+      "end": 248.23,
+      "text": " Mais il a beaucoup de curiosité.",
+      "tokens": [
+        50927,
+        6313,
+        1930,
+        257,
+        8796,
+        368,
+        13625,
+        5066,
+        13,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09446127319335937,
+      "compression_ratio": 1.6290909090909091,
+      "no_speech_prob": 0.045318327844142914,
+      "confidence": 0.79,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 246.05,
+          "end": 246.65,
+          "confidence": 0.51
+        },
+        {
+          "text": "il",
+          "start": 246.65,
+          "end": 246.79,
+          "confidence": 0.702
+        },
+        {
+          "text": "a",
+          "start": 246.79,
+          "end": 246.87,
+          "confidence": 0.926
+        },
+        {
+          "text": "beaucoup",
+          "start": 246.87,
+          "end": 247.11,
+          "confidence": 0.994
+        },
+        {
+          "text": "de",
+          "start": 247.11,
+          "end": 247.43,
+          "confidence": 0.999
+        },
+        {
+          "text": "curiosité.",
+          "start": 247.43,
+          "end": 248.23,
+          "confidence": 0.771
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 23392,
+      "start": 248.23,
+      "end": 252.79,
+      "text": " Il a entendu parler que le rugby était plein de rebondissements,",
+      "tokens": [
+        51024,
+        4416,
+        257,
+        41489,
+        16421,
+        631,
+        476,
+        43895,
+        11806,
+        21088,
+        368,
+        12970,
+        684,
+        44928,
+        11,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09446127319335937,
+      "compression_ratio": 1.6290909090909091,
+      "no_speech_prob": 0.045318327844142914,
+      "confidence": 0.864,
+      "words": [
+        {
+          "text": "Il",
+          "start": 248.23,
+          "end": 248.95,
+          "confidence": 0.704
+        },
+        {
+          "text": "a",
+          "start": 248.95,
+          "end": 249.09,
+          "confidence": 0.997
+        },
+        {
+          "text": "entendu",
+          "start": 249.09,
+          "end": 249.57,
+          "confidence": 0.995
+        },
+        {
+          "text": "parler",
+          "start": 249.57,
+          "end": 250.11,
+          "confidence": 0.973
+        },
+        {
+          "text": "que",
+          "start": 250.11,
+          "end": 250.33,
+          "confidence": 0.991
+        },
+        {
+          "text": "le",
+          "start": 250.33,
+          "end": 250.47,
+          "confidence": 0.998
+        },
+        {
+          "text": "rugby",
+          "start": 250.47,
+          "end": 250.79,
+          "confidence": 0.998
+        },
+        {
+          "text": "était",
+          "start": 250.79,
+          "end": 251.37,
+          "confidence": 0.983
+        },
+        {
+          "text": "plein",
+          "start": 251.37,
+          "end": 251.77,
+          "confidence": 0.99
+        },
+        {
+          "text": "de",
+          "start": 251.77,
+          "end": 252.09,
+          "confidence": 0.999
+        },
+        {
+          "text": "rebondissements,",
+          "start": 252.09,
+          "end": 252.79,
+          "confidence": 0.667
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 23392,
+      "start": 252.93,
+      "end": 258.29,
+      "text": " que c'était mouvementé, imprévisible avec plein de retournements de situation",
+      "tokens": [
+        51271,
+        631,
+        269,
+        6,
+        9743,
+        41219,
+        526,
+        11,
+        704,
+        10521,
+        48990,
+        4163,
+        21088,
+        368,
+        28873,
+        77,
+        6400,
+        368,
+        2590,
+        51523
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09446127319335937,
+      "compression_ratio": 1.6290909090909091,
+      "no_speech_prob": 0.045318327844142914,
+      "confidence": 0.925,
+      "words": [
+        {
+          "text": "que",
+          "start": 252.93,
+          "end": 253.43,
+          "confidence": 0.951
+        },
+        {
+          "text": "c'était",
+          "start": 253.43,
+          "end": 253.79,
+          "confidence": 0.994
+        },
+        {
+          "text": "mouvementé,",
+          "start": 253.79,
+          "end": 254.77,
+          "confidence": 0.939
+        },
+        {
+          "text": "imprévisible",
+          "start": 254.79,
+          "end": 255.95,
+          "confidence": 0.932
+        },
+        {
+          "text": "avec",
+          "start": 255.95,
+          "end": 256.31,
+          "confidence": 0.831
+        },
+        {
+          "text": "plein",
+          "start": 256.31,
+          "end": 256.69,
+          "confidence": 0.999
+        },
+        {
+          "text": "de",
+          "start": 256.69,
+          "end": 256.95,
+          "confidence": 0.999
+        },
+        {
+          "text": "retournements",
+          "start": 256.95,
+          "end": 257.61,
+          "confidence": 0.998
+        },
+        {
+          "text": "de",
+          "start": 257.61,
+          "end": 257.77,
+          "confidence": 0.996
+        },
+        {
+          "text": "situation",
+          "start": 257.77,
+          "end": 258.29,
+          "confidence": 0.474
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 23392,
+      "start": 258.29,
+      "end": 262.57,
+      "text": " et il semble intéressé par l'ambiance de ce sport",
+      "tokens": [
+        51523,
+        1030,
+        1930,
+        38328,
+        23243,
+        526,
+        971,
+        287,
+        6,
+        2173,
+        6276,
+        368,
+        1769,
+        7282,
+        51737
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09446127319335937,
+      "compression_ratio": 1.6290909090909091,
+      "no_speech_prob": 0.045318327844142914,
+      "confidence": 0.968,
+      "words": [
+        {
+          "text": "et",
+          "start": 258.29,
+          "end": 259.07,
+          "confidence": 0.805
+        },
+        {
+          "text": "il",
+          "start": 259.07,
+          "end": 259.35,
+          "confidence": 0.914
+        },
+        {
+          "text": "semble",
+          "start": 259.35,
+          "end": 259.61,
+          "confidence": 0.998
+        },
+        {
+          "text": "intéressé",
+          "start": 259.61,
+          "end": 260.53,
+          "confidence": 0.996
+        },
+        {
+          "text": "par",
+          "start": 260.53,
+          "end": 260.83,
+          "confidence": 0.959
+        },
+        {
+          "text": "l'ambiance",
+          "start": 260.83,
+          "end": 261.75,
+          "confidence": 0.989
+        },
+        {
+          "text": "de",
+          "start": 261.75,
+          "end": 261.99,
+          "confidence": 0.978
+        },
+        {
+          "text": "ce",
+          "start": 261.99,
+          "end": 262.23,
+          "confidence": 0.999
+        },
+        {
+          "text": "sport",
+          "start": 262.23,
+          "end": 262.57,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 23392,
+      "start": 262.57,
+      "end": 264.87,
+      "text": " et a très envie de le découvrir.",
+      "tokens": [
+        51737,
+        1030,
+        257,
+        5732,
+        24149,
+        368,
+        476,
+        47756,
+        13,
+        51849
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09446127319335937,
+      "compression_ratio": 1.6290909090909091,
+      "no_speech_prob": 0.045318327844142914,
+      "confidence": 0.767,
+      "words": [
+        {
+          "text": "et",
+          "start": 262.57,
+          "end": 263.27,
+          "confidence": 0.895
+        },
+        {
+          "text": "a",
+          "start": 263.27,
+          "end": 263.49,
+          "confidence": 0.958
+        },
+        {
+          "text": "très",
+          "start": 263.49,
+          "end": 263.67,
+          "confidence": 0.995
+        },
+        {
+          "text": "envie",
+          "start": 263.67,
+          "end": 264.09,
+          "confidence": 0.998
+        },
+        {
+          "text": "de",
+          "start": 264.09,
+          "end": 264.27,
+          "confidence": 0.952
+        },
+        {
+          "text": "le",
+          "start": 264.27,
+          "end": 264.45,
+          "confidence": 0.996
+        },
+        {
+          "text": "découvrir.",
+          "start": 264.45,
+          "end": 264.87,
+          "confidence": 0.385
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 26392,
+      "start": 264.87,
+      "end": 268.51,
+      "text": " Surtout de passer un moment de partage avec son amie.",
+      "tokens": [
+        50365,
+        318,
+        6224,
+        346,
+        368,
+        18509,
+        517,
+        1623,
+        368,
+        644,
+        609,
+        4163,
+        1872,
+        669,
+        414,
+        13,
+        50528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10422637337132504,
+      "compression_ratio": 1.659400544959128,
+      "no_speech_prob": 0.0013669105246663094,
+      "confidence": 0.465,
+      "words": [
+        {
+          "text": "Surtout",
+          "start": 264.87,
+          "end": 265.57,
+          "confidence": 0.053
+        },
+        {
+          "text": "de",
+          "start": 265.57,
+          "end": 265.67,
+          "confidence": 0.776
+        },
+        {
+          "text": "passer",
+          "start": 265.67,
+          "end": 265.93,
+          "confidence": 0.952
+        },
+        {
+          "text": "un",
+          "start": 265.93,
+          "end": 266.23,
+          "confidence": 0.987
+        },
+        {
+          "text": "moment",
+          "start": 266.23,
+          "end": 266.55,
+          "confidence": 0.995
+        },
+        {
+          "text": "de",
+          "start": 266.55,
+          "end": 266.73,
+          "confidence": 0.992
+        },
+        {
+          "text": "partage",
+          "start": 266.73,
+          "end": 267.33,
+          "confidence": 0.994
+        },
+        {
+          "text": "avec",
+          "start": 267.33,
+          "end": 267.97,
+          "confidence": 0.928
+        },
+        {
+          "text": "son",
+          "start": 267.97,
+          "end": 268.19,
+          "confidence": 0.985
+        },
+        {
+          "text": "amie.",
+          "start": 268.19,
+          "end": 268.51,
+          "confidence": 0.471
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 26392,
+      "start": 268.93,
+      "end": 271.69,
+      "text": " Je propose d'écouter une dernière fois notre dialogue.",
+      "tokens": [
+        50571,
+        2588,
+        17421,
+        274,
+        6,
+        9062,
+        23985,
+        2251,
+        29028,
+        9576,
+        10349,
+        10221,
+        13,
+        50694
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10422637337132504,
+      "compression_ratio": 1.659400544959128,
+      "no_speech_prob": 0.0013669105246663094,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "Je",
+          "start": 268.93,
+          "end": 269.49,
+          "confidence": 0.975
+        },
+        {
+          "text": "propose",
+          "start": 269.49,
+          "end": 269.69,
+          "confidence": 0.956
+        },
+        {
+          "text": "d'écouter",
+          "start": 269.69,
+          "end": 270.29,
+          "confidence": 1.0
+        },
+        {
+          "text": "une",
+          "start": 270.29,
+          "end": 270.55,
+          "confidence": 0.994
+        },
+        {
+          "text": "dernière",
+          "start": 270.55,
+          "end": 270.89,
+          "confidence": 1.0
+        },
+        {
+          "text": "fois",
+          "start": 270.89,
+          "end": 271.15,
+          "confidence": 0.999
+        },
+        {
+          "text": "notre",
+          "start": 271.15,
+          "end": 271.33,
+          "confidence": 0.998
+        },
+        {
+          "text": "dialogue.",
+          "start": 271.33,
+          "end": 271.69,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 26392,
+      "start": 272.21,
+      "end": 274.37,
+      "text": " Tiens, tu peux me laisser la télé tout à l'heure ?",
+      "tokens": [
+        50735,
+        20456,
+        694,
+        11,
+        2604,
+        14844,
+        385,
+        34463,
+        635,
+        24254,
+        3486,
+        1531,
+        287,
+        6,
+        23084,
+        2506,
+        50833
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10422637337132504,
+      "compression_ratio": 1.659400544959128,
+      "no_speech_prob": 0.0013669105246663094,
+      "confidence": 0.906,
+      "words": [
+        {
+          "text": "Tiens,",
+          "start": 272.21,
+          "end": 272.95,
+          "confidence": 0.73
+        },
+        {
+          "text": "tu",
+          "start": 272.97,
+          "end": 273.03,
+          "confidence": 0.945
+        },
+        {
+          "text": "peux",
+          "start": 273.03,
+          "end": 273.15,
+          "confidence": 0.997
+        },
+        {
+          "text": "me",
+          "start": 273.15,
+          "end": 273.25,
+          "confidence": 0.989
+        },
+        {
+          "text": "laisser",
+          "start": 273.25,
+          "end": 273.39,
+          "confidence": 0.979
+        },
+        {
+          "text": "la",
+          "start": 273.39,
+          "end": 273.57,
+          "confidence": 0.975
+        },
+        {
+          "text": "télé",
+          "start": 273.57,
+          "end": 273.79,
+          "confidence": 0.922
+        },
+        {
+          "text": "tout",
+          "start": 273.79,
+          "end": 273.95,
+          "confidence": 0.941
+        },
+        {
+          "text": "à",
+          "start": 273.95,
+          "end": 274.07,
+          "confidence": 0.983
+        },
+        {
+          "text": "l'heure ?",
+          "start": 274.07,
+          "end": 274.37,
+          "confidence": 0.935
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 26392,
+      "start": 274.37,
+      "end": 276.73,
+      "text": " Il y a un gros match de rugby que je vais absolument regarder.",
+      "tokens": [
+        50833,
+        4416,
+        288,
+        257,
+        517,
+        18638,
+        2995,
+        368,
+        43895,
+        631,
+        1506,
+        9369,
+        34508,
+        31468,
+        13,
+        50942
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10422637337132504,
+      "compression_ratio": 1.659400544959128,
+      "no_speech_prob": 0.0013669105246663094,
+      "confidence": 0.9,
+      "words": [
+        {
+          "text": "Il",
+          "start": 274.37,
+          "end": 274.63,
+          "confidence": 0.574
+        },
+        {
+          "text": "y",
+          "start": 274.63,
+          "end": 274.71,
+          "confidence": 0.999
+        },
+        {
+          "text": "a",
+          "start": 274.71,
+          "end": 274.75,
+          "confidence": 1.0
+        },
+        {
+          "text": "un",
+          "start": 274.75,
+          "end": 274.83,
+          "confidence": 0.999
+        },
+        {
+          "text": "gros",
+          "start": 274.83,
+          "end": 274.97,
+          "confidence": 0.999
+        },
+        {
+          "text": "match",
+          "start": 274.97,
+          "end": 275.21,
+          "confidence": 1.0
+        },
+        {
+          "text": "de",
+          "start": 275.21,
+          "end": 275.33,
+          "confidence": 0.668
+        },
+        {
+          "text": "rugby",
+          "start": 275.33,
+          "end": 275.57,
+          "confidence": 0.999
+        },
+        {
+          "text": "que",
+          "start": 275.57,
+          "end": 275.81,
+          "confidence": 0.879
+        },
+        {
+          "text": "je",
+          "start": 275.81,
+          "end": 275.91,
+          "confidence": 0.99
+        },
+        {
+          "text": "vais",
+          "start": 275.91,
+          "end": 276.03,
+          "confidence": 0.979
+        },
+        {
+          "text": "absolument",
+          "start": 276.03,
+          "end": 276.31,
+          "confidence": 0.997
+        },
+        {
+          "text": "regarder.",
+          "start": 276.31,
+          "end": 276.73,
+          "confidence": 0.839
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 26392,
+      "start": 276.73,
+      "end": 279.41,
+      "text": " Euh, bah oui, mais je ne savais pas que tu regardais ce sport.",
+      "tokens": [
+        50955,
+        47320,
+        11,
+        12913,
+        14367,
+        11,
+        2420,
+        1506,
+        408,
+        11163,
+        1527,
+        1736,
+        631,
+        2604,
+        3843,
+        1527,
+        1769,
+        7282,
+        13,
+        51077
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10422637337132504,
+      "compression_ratio": 1.659400544959128,
+      "no_speech_prob": 0.0013669105246663094,
+      "confidence": 0.65,
+      "words": [
+        {
+          "text": "Euh,",
+          "start": 276.73,
+          "end": 277.09,
+          "confidence": 0.082
+        },
+        {
+          "text": "bah",
+          "start": 277.21,
+          "end": 277.41,
+          "confidence": 0.629
+        },
+        {
+          "text": "oui,",
+          "start": 277.41,
+          "end": 277.67,
+          "confidence": 0.738
+        },
+        {
+          "text": "mais",
+          "start": 277.71,
+          "end": 277.93,
+          "confidence": 0.963
+        },
+        {
+          "text": "je",
+          "start": 277.93,
+          "end": 278.29,
+          "confidence": 0.896
+        },
+        {
+          "text": "ne",
+          "start": 278.29,
+          "end": 278.41,
+          "confidence": 0.529
+        },
+        {
+          "text": "savais",
+          "start": 278.41,
+          "end": 278.63,
+          "confidence": 0.991
+        },
+        {
+          "text": "pas",
+          "start": 278.63,
+          "end": 278.71,
+          "confidence": 0.989
+        },
+        {
+          "text": "que",
+          "start": 278.71,
+          "end": 278.77,
+          "confidence": 0.98
+        },
+        {
+          "text": "tu",
+          "start": 278.77,
+          "end": 278.85,
+          "confidence": 0.995
+        },
+        {
+          "text": "regardais",
+          "start": 278.85,
+          "end": 279.07,
+          "confidence": 0.996
+        },
+        {
+          "text": "ce",
+          "start": 279.07,
+          "end": 279.15,
+          "confidence": 0.977
+        },
+        {
+          "text": "sport.",
+          "start": 279.15,
+          "end": 279.41,
+          "confidence": 0.668
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "seek": 26392,
+      "start": 279.41,
+      "end": 280.43,
+      "text": " Tu ne m'en as jamais parlé.",
+      "tokens": [
+        51089,
+        7836,
+        408,
+        275,
+        6,
+        268,
+        382,
+        14540,
+        38570,
+        13,
+        51124
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10422637337132504,
+      "compression_ratio": 1.659400544959128,
+      "no_speech_prob": 0.0013669105246663094,
+      "confidence": 0.879,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 279.41,
+          "end": 279.69,
+          "confidence": 0.707
+        },
+        {
+          "text": "ne",
+          "start": 279.69,
+          "end": 279.85,
+          "confidence": 0.828
+        },
+        {
+          "text": "m'en",
+          "start": 279.85,
+          "end": 279.97,
+          "confidence": 0.998
+        },
+        {
+          "text": "as",
+          "start": 279.97,
+          "end": 280.03,
+          "confidence": 0.855
+        },
+        {
+          "text": "jamais",
+          "start": 280.03,
+          "end": 280.15,
+          "confidence": 0.997
+        },
+        {
+          "text": "parlé.",
+          "start": 280.15,
+          "end": 280.43,
+          "confidence": 0.794
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 26392,
+      "start": 280.43,
+      "end": 281.35,
+      "text": " Oui, c'est vrai.",
+      "tokens": [
+        51140,
+        14005,
+        11,
+        269,
+        6,
+        377,
+        17815,
+        13,
+        51169
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10422637337132504,
+      "compression_ratio": 1.659400544959128,
+      "no_speech_prob": 0.0013669105246663094,
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Oui,",
+          "start": 280.43,
+          "end": 280.81,
+          "confidence": 0.781
+        },
+        {
+          "text": "c'est",
+          "start": 280.95,
+          "end": 281.23,
+          "confidence": 0.999
+        },
+        {
+          "text": "vrai.",
+          "start": 281.23,
+          "end": 281.35,
+          "confidence": 0.921
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "seek": 26392,
+      "start": 281.35,
+      "end": 283.37,
+      "text": " Je regardais souvent avec mes parents quand j'étais plus petite.",
+      "tokens": [
+        51179,
+        2588,
+        3843,
+        1527,
+        20847,
+        4163,
+        3813,
+        3152,
+        6932,
+        361,
+        6,
+        22824,
+        1804,
+        18319,
+        13,
+        51272
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10422637337132504,
+      "compression_ratio": 1.659400544959128,
+      "no_speech_prob": 0.0013669105246663094,
+      "confidence": 0.887,
+      "words": [
+        {
+          "text": "Je",
+          "start": 281.35,
+          "end": 281.51,
+          "confidence": 0.27
+        },
+        {
+          "text": "regardais",
+          "start": 281.51,
+          "end": 281.93,
+          "confidence": 0.981
+        },
+        {
+          "text": "souvent",
+          "start": 281.93,
+          "end": 282.09,
+          "confidence": 0.998
+        },
+        {
+          "text": "avec",
+          "start": 282.09,
+          "end": 282.25,
+          "confidence": 0.956
+        },
+        {
+          "text": "mes",
+          "start": 282.25,
+          "end": 282.41,
+          "confidence": 0.998
+        },
+        {
+          "text": "parents",
+          "start": 282.41,
+          "end": 282.61,
+          "confidence": 0.996
+        },
+        {
+          "text": "quand",
+          "start": 282.61,
+          "end": 282.75,
+          "confidence": 0.865
+        },
+        {
+          "text": "j'étais",
+          "start": 282.75,
+          "end": 282.99,
+          "confidence": 1.0
+        },
+        {
+          "text": "plus",
+          "start": 282.99,
+          "end": 283.11,
+          "confidence": 0.997
+        },
+        {
+          "text": "petite.",
+          "start": 283.11,
+          "end": 283.37,
+          "confidence": 0.938
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "seek": 26392,
+      "start": 283.37,
+      "end": 285.15,
+      "text": " Et parfois, j'aime bien me refaire des matchs.",
+      "tokens": [
+        51284,
+        3790,
+        30125,
+        11,
+        361,
+        6,
+        24461,
+        3610,
+        385,
+        1895,
+        9020,
+        730,
+        2995,
+        82,
+        13,
+        51360
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10422637337132504,
+      "compression_ratio": 1.659400544959128,
+      "no_speech_prob": 0.0013669105246663094,
+      "confidence": 0.799,
+      "words": [
+        {
+          "text": "Et",
+          "start": 283.37,
+          "end": 283.67,
+          "confidence": 0.43
+        },
+        {
+          "text": "parfois,",
+          "start": 283.67,
+          "end": 283.95,
+          "confidence": 0.535
+        },
+        {
+          "text": "j'aime",
+          "start": 284.03,
+          "end": 284.27,
+          "confidence": 0.996
+        },
+        {
+          "text": "bien",
+          "start": 284.27,
+          "end": 284.41,
+          "confidence": 0.997
+        },
+        {
+          "text": "me",
+          "start": 284.41,
+          "end": 284.49,
+          "confidence": 0.987
+        },
+        {
+          "text": "refaire",
+          "start": 284.49,
+          "end": 284.71,
+          "confidence": 0.998
+        },
+        {
+          "text": "des",
+          "start": 284.71,
+          "end": 284.83,
+          "confidence": 0.991
+        },
+        {
+          "text": "matchs.",
+          "start": 284.83,
+          "end": 285.15,
+          "confidence": 0.715
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "seek": 26392,
+      "start": 285.15,
+      "end": 286.15,
+      "text": " Ça me rappelle ma jeunesse.",
+      "tokens": [
+        51367,
+        11527,
+        385,
+        43736,
+        463,
+        1506,
+        409,
+        7357,
+        13,
+        51410
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10422637337132504,
+      "compression_ratio": 1.659400544959128,
+      "no_speech_prob": 0.0013669105246663094,
+      "confidence": 0.773,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 285.15,
+          "end": 285.33,
+          "confidence": 0.384
+        },
+        {
+          "text": "me",
+          "start": 285.33,
+          "end": 285.45,
+          "confidence": 1.0
+        },
+        {
+          "text": "rappelle",
+          "start": 285.45,
+          "end": 285.63,
+          "confidence": 1.0
+        },
+        {
+          "text": "ma",
+          "start": 285.63,
+          "end": 285.77,
+          "confidence": 0.997
+        },
+        {
+          "text": "jeunesse.",
+          "start": 285.77,
+          "end": 286.15,
+          "confidence": 0.76
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "seek": 26392,
+      "start": 286.15,
+      "end": 287.59,
+      "text": " Ah bah, je vais regarder avec toi alors.",
+      "tokens": [
+        51425,
+        2438,
+        12913,
+        11,
+        1506,
+        9369,
+        31468,
+        4163,
+        15648,
+        11246,
+        13,
+        51484
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10422637337132504,
+      "compression_ratio": 1.659400544959128,
+      "no_speech_prob": 0.0013669105246663094,
+      "confidence": 0.576,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 286.15,
+          "end": 286.45,
+          "confidence": 0.685
+        },
+        {
+          "text": "bah,",
+          "start": 286.45,
+          "end": 286.63,
+          "confidence": 0.195
+        },
+        {
+          "text": "je",
+          "start": 286.71,
+          "end": 286.79,
+          "confidence": 0.952
+        },
+        {
+          "text": "vais",
+          "start": 286.79,
+          "end": 286.85,
+          "confidence": 0.983
+        },
+        {
+          "text": "regarder",
+          "start": 286.85,
+          "end": 286.99,
+          "confidence": 0.984
+        },
+        {
+          "text": "avec",
+          "start": 286.99,
+          "end": 287.21,
+          "confidence": 0.971
+        },
+        {
+          "text": "toi",
+          "start": 287.21,
+          "end": 287.41,
+          "confidence": 0.999
+        },
+        {
+          "text": "alors.",
+          "start": 287.41,
+          "end": 287.59,
+          "confidence": 0.417
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "seek": 26392,
+      "start": 287.59,
+      "end": 288.89,
+      "text": " Tu pourras m'expliquer les règles.",
+      "tokens": [
+        51494,
+        7836,
+        2016,
+        3906,
+        275,
+        6,
+        23040,
+        23909,
+        1512,
+        43659,
+        904,
+        13,
+        51545
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10422637337132504,
+      "compression_ratio": 1.659400544959128,
+      "no_speech_prob": 0.0013669105246663094,
+      "confidence": 0.79,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 287.59,
+          "end": 287.85,
+          "confidence": 0.24
+        },
+        {
+          "text": "pourras",
+          "start": 287.85,
+          "end": 288.13,
+          "confidence": 0.965
+        },
+        {
+          "text": "m'expliquer",
+          "start": 288.13,
+          "end": 288.49,
+          "confidence": 0.999
+        },
+        {
+          "text": "les",
+          "start": 288.49,
+          "end": 288.61,
+          "confidence": 0.931
+        },
+        {
+          "text": "règles.",
+          "start": 288.61,
+          "end": 288.89,
+          "confidence": 0.711
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "seek": 26392,
+      "start": 288.89,
+      "end": 291.57,
+      "text": " Et puis, apparemment, c'est plein de rebondissements.",
+      "tokens": [
+        51565,
+        3790,
+        9093,
+        11,
+        724,
+        19183,
+        518,
+        11,
+        269,
+        6,
+        377,
+        21088,
+        368,
+        12970,
+        684,
+        44928,
+        13,
+        51681
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10422637337132504,
+      "compression_ratio": 1.659400544959128,
+      "no_speech_prob": 0.0013669105246663094,
+      "confidence": 0.893,
+      "words": [
+        {
+          "text": "Et",
+          "start": 288.89,
+          "end": 289.31,
+          "confidence": 0.815
+        },
+        {
+          "text": "puis,",
+          "start": 289.31,
+          "end": 289.47,
+          "confidence": 0.463
+        },
+        {
+          "text": "apparemment,",
+          "start": 289.53,
+          "end": 290.17,
+          "confidence": 0.999
+        },
+        {
+          "text": "c'est",
+          "start": 290.19,
+          "end": 290.59,
+          "confidence": 0.997
+        },
+        {
+          "text": "plein",
+          "start": 290.59,
+          "end": 290.83,
+          "confidence": 0.999
+        },
+        {
+          "text": "de",
+          "start": 290.83,
+          "end": 291.03,
+          "confidence": 0.994
+        },
+        {
+          "text": "rebondissements.",
+          "start": 291.03,
+          "end": 291.57,
+          "confidence": 0.989
+        }
+      ]
+    }
+  ],
+  "language": "fr",
+  "language_probs": {
+    "en": 8.749520202400163e-05,
+    "zh": 9.078953553398605e-06,
+    "de": 2.79651449091034e-05,
+    "es": 4.494407676247647e-06,
+    "ru": 5.173031240701675e-06,
+    "ko": 2.834587576217018e-06,
+    "fr": 0.9998233914375305,
+    "ja": 3.7259949294821126e-06,
+    "pt": 7.765640475554392e-06,
+    "tr": 1.3182057045924012e-06,
+    "pl": 2.683733555386425e-06,
+    "ca": 1.5346719450803903e-08,
+    "nl": 2.3683865038037766e-06,
+    "ar": 2.0576899260049686e-06,
+    "sv": 9.274734225073189e-07,
+    "it": 5.770933512394549e-06,
+    "id": 2.2202203808774357e-07,
+    "hi": 1.7120502349143862e-08,
+    "fi": 8.762700076658803e-08,
+    "vi": 8.663197149871849e-06,
+    "he": 1.1077090533717637e-07,
+    "uk": 3.173639839815223e-08,
+    "el": 2.476834879416856e-07,
+    "ms": 2.1812086359318528e-08,
+    "cs": 7.510909085794992e-07,
+    "ro": 2.3634123635929427e-07,
+    "da": 8.42700629277715e-08,
+    "hu": 5.895380468246003e-07,
+    "ta": 1.4082941035553631e-08,
+    "no": 6.877922231751654e-08,
+    "th": 8.249119787251402e-07,
+    "ur": 5.645742096049844e-09,
+    "hr": 4.982350088056364e-09,
+    "bg": 5.47204104250909e-09,
+    "lt": 5.3985427683755915e-08,
+    "la": 1.855063800348944e-07,
+    "mi": 2.2109043484874746e-09,
+    "ml": 2.822693545567745e-08,
+    "cy": 3.2236172842203814e-08,
+    "sk": 4.130513264755109e-09,
+    "te": 4.5364814127424324e-09,
+    "fa": 3.07599705706707e-08,
+    "lv": 1.9818420238237877e-09,
+    "bn": 9.39819888579052e-10,
+    "sr": 3.5255950936452507e-10,
+    "az": 3.588652264241432e-09,
+    "sl": 2.687776223808669e-09,
+    "kn": 2.302784005148162e-11,
+    "et": 5.611920372849966e-10,
+    "mk": 2.882702236639556e-11,
+    "br": 8.361426750980172e-08,
+    "eu": 7.883222963300796e-10,
+    "is": 2.1805574013100681e-10,
+    "hy": 6.163488608379453e-10,
+    "ne": 5.835474325976975e-10,
+    "mn": 1.9243351356834637e-10,
+    "bs": 6.334347490977166e-10,
+    "kk": 9.361558195308817e-10,
+    "sq": 1.5986874046802768e-09,
+    "sw": 6.200634672381966e-09,
+    "gl": 1.1380760778223475e-09,
+    "mr": 5.745003917034808e-10,
+    "pa": 6.211829939317681e-10,
+    "si": 1.6336496599933525e-08,
+    "km": 8.69450857976517e-08,
+    "sn": 9.092629760232285e-09,
+    "yo": 2.4805660303606203e-10,
+    "so": 4.600674767367419e-13,
+    "af": 8.844730503554388e-11,
+    "oc": 2.2457209425397195e-09,
+    "ka": 1.3018759681404646e-11,
+    "be": 8.898035641635715e-10,
+    "tg": 7.57782671247792e-13,
+    "sd": 8.91410070757992e-11,
+    "gu": 2.599222920229849e-11,
+    "am": 1.3172221126345196e-11,
+    "yi": 1.786684689086826e-10,
+    "lo": 1.2136630589409947e-10,
+    "uz": 2.7471883275176356e-13,
+    "fo": 1.6982197592607662e-10,
+    "ht": 4.6440606915609806e-09,
+    "ps": 8.984014920887518e-11,
+    "tk": 6.676804833842531e-13,
+    "nn": 3.0346816970450163e-07,
+    "mt": 4.335908715402681e-11,
+    "sa": 5.060810881474254e-09,
+    "lb": 8.389141811782075e-12,
+    "my": 1.8148209324220232e-10,
+    "bo": 6.031581484267079e-11,
+    "tl": 1.223547130280167e-08,
+    "mg": 9.093305535640139e-13,
+    "as": 1.452347530433995e-11,
+    "tt": 3.7330240895000477e-13,
+    "haw": 2.3038152718868332e-08,
+    "ln": 1.6850042194871406e-10,
+    "ha": 1.2625574414074081e-12,
+    "ba": 7.830311377597654e-13,
+    "jw": 4.304094147755677e-08,
+    "su": 2.5485687778908916e-12,
+    "yue": 5.2214579326914645e-09
+  },
+  "speech_activity": [
+    {
+      "start": 0.0,
+      "end": 98.034
+    },
+    {
+      "start": 98.126,
+      "end": 144.498
+    },
+    {
+      "start": 144.75,
+      "end": 210.866
+    },
+    {
+      "start": 211.15,
+      "end": 219.41
+    },
+    {
+      "start": 219.95,
+      "end": 232.914
+    },
+    {
+      "start": 233.134,
+      "end": 292.274
+    }
+  ]
+}
