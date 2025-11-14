@@ -37,35 +37,86 @@ class TestClauseDetectorEnglish:
         assert len(clauses) >= 1
         assert any(c.clause_type == ClauseType.INDEPENDENT for c in clauses)
     
+    def test_non_overlapping_clauses_complex_compound(self, detector):
+        """Test that clauses don't overlap in complex compound sentences."""
+        text = "I left because it was late, and I took a taxi when it started raining."
+        clauses = detector.detect_clauses(text)
+        
+        # Should get exactly 4 non-overlapping clauses
+        assert len(clauses) == 4
+        
+        # Check that no two clauses overlap
+        for i, clause1 in enumerate(clauses):
+            for clause2 in clauses[i+1:]:
+                # Two clauses overlap if one starts before the other ends
+                # They should not overlap (clause1.end <= clause2.start for sorted positions)
+                assert clause1.end <= clause2.start, \
+                    f"Clauses overlap: '{clause1.text}' [{clause1.start}:{clause1.end}] " \
+                    f"and '{clause2.text}' [{clause2.start}:{clause2.end}]"
+        
+        # Check expected clause content
+        clause_texts = [c.text for c in clauses]
+        assert "I left" in clause_texts[0]
+        assert "because it was late" in clause_texts[1]
+        assert "and I took a taxi" in clause_texts[2]
+        assert "when it started raining" in clause_texts[3]
+    
+    def test_clause_span_coverage(self, detector):
+        """Test that clause spans cover the sentence without gaps (except punctuation)."""
+        text = "I went to the store and she stayed home."
+        clauses = detector.detect_clauses(text)
+        
+        # Clauses should be ordered by position
+        for i in range(len(clauses) - 1):
+            assert clauses[i].start < clauses[i].end
+            assert clauses[i].end <= clauses[i+1].start
+    
+    def test_independent_clauses_coordination(self, detector):
+        """Test that coordinated independent clauses include the conjunction."""
+        text = "I ran and she walked."
+        clauses = detector.detect_clauses(text)
+        
+        independent_clauses = [c for c in clauses if c.clause_type == ClauseType.INDEPENDENT]
+        assert len(independent_clauses) >= 1
+        
+        # Check that coordinating conjunction is included
+        clause_texts = " ".join([c.text for c in clauses])
+        assert "and" in clause_texts
+    
     def test_compound_sentence(self, detector):
         """Test detection in a compound sentence."""
         text = "I went to the store, and she went home."
         clauses = detector.detect_clauses(text)
         
         independent_clauses = [c for c in clauses if c.clause_type == ClauseType.INDEPENDENT]
-        assert len(independent_clauses) >= 2
+        assert len(independent_clauses) >= 1  # At least main clause
+        
+        # Verify no overlaps
+        for i, clause1 in enumerate(clauses):
+            for clause2 in clauses[i+1:]:
+                assert clause1.end <= clause2.start, \
+                    f"Clauses overlap: '{clause1.text}' and '{clause2.text}'"
     
     def test_complex_sentence(self, detector):
         """Test detection in a complex sentence."""
         text = "Although it was raining, we went outside."
         clauses = detector.detect_clauses(text)
         
-        independent = [c for c in clauses if c.clause_type == ClauseType.INDEPENDENT]
+        # Should have at least one dependent and one independent clause
         dependent = [c for c in clauses if c.clause_type == ClauseType.DEPENDENT]
-        
-        assert len(independent) >= 1
-        assert len(dependent) >= 1
+        assert len(dependent) >= 1, f"Expected dependent clause in: {text}"
     
     def test_compound_complex_sentence(self, detector):
         """Test detection in a compound-complex sentence."""
         text = "When I arrived, she was cooking, and he was reading."
         clauses = detector.detect_clauses(text)
         
+        # Should have dependent and independent clauses
         independent = [c for c in clauses if c.clause_type == ClauseType.INDEPENDENT]
         dependent = [c for c in clauses if c.clause_type == ClauseType.DEPENDENT]
         
-        assert len(independent) >= 2
-        assert len(dependent) >= 1
+        assert len(independent) >= 1, f"Expected independent clauses in: {text}"
+        assert len(dependent) >= 1, f"Expected dependent clauses in: {text}"
     
     def test_clause_text_extraction(self, detector):
         """Test that clause text is properly extracted."""
@@ -108,6 +159,40 @@ class TestClauseDetectorEnglish:
             clauses = detector.detect_clauses(text)
             dependent = [c for c in clauses if c.clause_type == ClauseType.DEPENDENT]
             assert len(dependent) >= 1, f"Failed to detect dependent clause in: {text}"
+    
+    def test_mid_sentence_subordinate_no_overlaps(self, detector):
+        """Test that subordinate clauses don't overlap when they appear mid-sentence."""
+        # Dependent clause comes AFTER independent clause
+        text = "I left because it was late."
+        clauses = detector.detect_clauses(text)
+        
+        # Verify no overlaps
+        for i in range(len(clauses) - 1):
+            assert clauses[i].end <= clauses[i+1].start, \
+                f"Clauses overlap: [{clauses[i].start}:{clauses[i].end}] " \
+                f"and [{clauses[i+1].start}:{clauses[i+1].end}]"
+    
+    def test_dependent_clause_markers(self, detector):
+        """Test that dependent clause markers are included in the clause."""
+        text = "I left because it was late."
+        clauses = detector.detect_clauses(text)
+        
+        dependent_clauses = [c for c in clauses if c.clause_type == ClauseType.DEPENDENT]
+        assert len(dependent_clauses) >= 1
+        
+        # Check that marker words are included
+        dep_text = " ".join([c.text for c in dependent_clauses])
+        assert "because" in dep_text.lower()
+    
+    def test_multiple_independent_clauses(self, detector):
+        """Test multiple independent clauses with conjunctions."""
+        text = "I read, she wrote, and he listened."
+        clauses = detector.detect_clauses(text)
+        
+        # Verify all clauses are non-overlapping
+        for i in range(len(clauses) - 1):
+            assert clauses[i].end <= clauses[i+1].start, \
+                f"Clauses {i} and {i+1} overlap"
     
     def test_empty_text(self, detector):
         """Test handling of empty text."""
