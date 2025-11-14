@@ -57,8 +57,9 @@ class ClauseDetector:
         'advcl',     # adverbial clause modifier
         'acl',       # clausal modifier of noun (adjectival clause)
         'ccomp',     # clausal complement
-        'xcomp',     # open clausal complement
         'relcl',     # relative clause modifier
+        # Note: 'xcomp' is excluded because it often represents complements 
+        # (like infinitives or participles) that are not independent clauses
     }
     
     # Coordinating conjunctions for compound structures
@@ -203,30 +204,165 @@ class ClauseDetector:
         """
         return " ".join(text.split())
     
+    def _get_clause_start_end_excluding_children(self, root: Token, doc: Doc, all_roots: List[Token]) -> Tuple[int, int]:
+        """
+        Get the start and end position of a clause, excluding nested clause roots and their markers.
+        
+        For each nested clause root (direct child with clause dependency), we find its starting
+        marker (like 'because', 'when', 'and') and exclude from start of marker to end of clause.
+        
+        Also handles looking backward for coordinating conjunctions (like 'and', 'or') that
+        should be included in the clause span.
+        
+        Args:
+            root: Root token of the clause
+            doc: spaCy Doc object
+            all_roots: List of all clause roots in the document
+            
+        Returns:
+            Tuple of (start_index, end_index) for the clause without nested clauses
+        """
+        descendants = list(root.subtree)
+        start = min(token.i for token in descendants)
+        end = max(token.i for token in descendants) + 1
+        
+        # Look backward for coordinating conjunctions (cc dependency)
+        # that should be included in this clause
+        # (e.g., 'and' before a conjoined clause)
+        if root.dep_ == "conj":
+            # This is a coordinated clause, look for preceding cc/cconj
+            # We need to go back past punctuation and the subject to find the conjunction
+            # The subject of the coordinated clause comes right before the verb
+            # So we look for cc after skipping the subject span
+            found_subj = False
+            for i in range(root.i - 1, -1, -1):
+                candidate = doc[i]
+                # Look for the conjunction (cc or CCONJ pos)
+                if candidate.pos_ == "CCONJ" or candidate.dep_ == "cc":
+                    start = i
+                    break
+                # Skip past the subject and punctuation to get to cc
+                # The subject (nsubj) will be between cc and the verb
+                elif candidate.pos_ in ("PRON", "NOUN") and candidate.dep_ == "nsubj":
+                    found_subj = True
+                elif candidate.pos_ == "PUNCT":
+                    # Punctuation is ok, keep going if we haven't hit cc yet
+                    continue
+                elif found_subj:
+                    # We've passed the subject, keep looking for cc
+                    continue
+                # For other tokens, only skip if they're common filler
+                elif candidate.pos_ in ("DET", "ADV") and found_subj:
+                    continue
+        
+        # Find all direct children that are clause roots (nested clauses)
+        nested_clause_children = []
+        for child in root.children:
+            if child in all_roots and child.i != root.i:
+                if child.dep_ in self.SUBORDINATE_DEPS or child.dep_ == "conj":
+                    nested_clause_children.append(child)
+        
+        # For each nested clause child, find its markers and exclude them
+        excluded_ranges = []
+        for nested_child in nested_clause_children:
+            # Find the starting marker of this nested clause
+            marker_token = None
+            
+            # First, look for direct mark/cc/advmod dependencies of the nested child
+            for child_of_nested in nested_child.children:
+                if child_of_nested.dep_ in ("mark", "cc", "advmod"):
+                    # For advmod, check if it's a subordinating conjunction
+                    if child_of_nested.dep_ == "advmod" and child_of_nested.pos_ != "SCONJ":
+                        continue  # Not a subordinating marker
+                    marker_token = child_of_nested
+                    break
+            
+            # Also check for subordinating conjunctions that precede the nested_child
+            # (but are after the last direct child of root)
+            if marker_token is None:
+                # Look backwards from nested_child to find any SCONJ or CCONJ
+                # that is not already assigned to previous children
+                for i in range(nested_child.i - 1, start - 1, -1):
+                    candidate = doc[i]
+                    # Check if this is a marker-like token
+                    if candidate.pos_ in ("SCONJ", "CCONJ"):
+                        # Check if it's not part of a previous completed clause
+                        # by checking it's after the previous nested clause (if any)
+                        if i > start:
+                            marker_token = candidate
+                            break
+            
+            # If still no marker found, the nested child itself marks the start
+            if marker_token is None:
+                marker_token = nested_child
+            
+            # Get the nested child's span
+            nested_descendants = list(nested_child.subtree)
+            nested_end = max(token.i for token in nested_descendants) + 1
+            
+            # Exclude range: from marker to end of nested clause
+            excluded_ranges.append((marker_token.i, nested_end))
+        
+        # Merge overlapping excluded ranges and apply them to reduce the clause span
+        if excluded_ranges:
+            excluded_ranges.sort()
+            merged = []
+            for exc_start, exc_end in excluded_ranges:
+                if merged and exc_start <= merged[-1][1]:
+                    # Overlapping or adjacent, merge
+                    merged[-1] = (merged[-1][0], max(merged[-1][1], exc_end))
+                else:
+                    merged.append((exc_start, exc_end))
+            
+            # Reduce the clause end by exclusion ranges
+            # But only if the exclusion starts AFTER the core clause root
+            # (we don't want to truncate leading dependent clauses)
+            for exc_start, exc_end in merged:
+                # Only exclude if the exclusion starts after the root
+                if root.i < exc_start < end:
+                    end = exc_start
+                    break
+        
+        return start, end
+    
     def detect_clauses(self, text: str) -> List[Clause]:
         """
-        Detect all clauses in the given text.
+        Detect all clauses in the given text without overlaps.
+        
+        This function partitions the sentence into non-overlapping clause segments.
+        When a clause has dependent clause children (advcl, mark, cc dependencies),
+        those are extracted as separate clauses, starting from their markers.
         
         Args:
             text: Input text to analyze
             
         Returns:
-            List of Clause objects
+            List of Clause objects (non-overlapping, ordered by position)
         """
         doc = self.nlp(text)
         clause_roots = self._find_clause_roots(doc)
         
-        clauses = []
-        seen_spans = set()
+        # Sort roots by their position for consistent processing order
+        sorted_roots = sorted(clause_roots, key=lambda r: r.i)
         
-        for root in clause_roots:
-            start, end = self._get_clause_span(root, doc)
-            
-            # Avoid duplicate clauses
-            span_key = (start, end)
-            if span_key in seen_spans:
+        clauses = []
+        covered_positions = set()  # Track which token positions are already part of clauses
+        
+        for root in sorted_roots:
+            # Skip if this root token is already covered by a previous clause
+            if root.i in covered_positions:
                 continue
-            seen_spans.add(span_key)
+            
+            # Get the clause boundaries excluding nested clauses
+            start, end = self._get_clause_start_end_excluding_children(root, doc, sorted_roots)
+            
+            # If the clause is empty, skip it
+            if end <= start:
+                continue
+            
+            # Mark all positions in this clause as covered
+            for i in range(start, end):
+                covered_positions.add(i)
             
             clause_text = self._clean_clause_text(doc[start:end].text)
             is_dependent = self._is_dependent_clause(root)
