@@ -138,15 +138,21 @@ class TestClauseDetectorFrench:
         text = "Le chat dort."
         clauses = detector.detect_clauses(text)
         
-        assert len(clauses) >= 1
-        assert any(c.clause_type == ClauseType.INDEPENDENT for c in clauses)
+        # Should detect at least one clause (the main clause)
+        assert len(clauses) >= 1, f"Expected at least 1 clause, got {len(clauses)}"
+        # Verify at least one is independent
+        independent = [c for c in clauses if c.clause_type == ClauseType.INDEPENDENT]
+        assert len(independent) >= 1, "Expected at least one independent clause"
     
     def test_compound_sentence_french(self, detector):
         """Test detection in a compound French sentence."""
         text = "Je suis allé au magasin et elle est rentrée."
         clauses = detector.detect_clauses(text)
         
+        # Should detect clauses
+        assert len(clauses) >= 1, f"Expected at least 1 clause, got {len(clauses)}"
         independent_clauses = [c for c in clauses if c.clause_type == ClauseType.INDEPENDENT]
+        # At least one independent clause should be found
         assert len(independent_clauses) >= 1
     
     def test_complex_sentence_french(self, detector):
@@ -154,14 +160,26 @@ class TestClauseDetectorFrench:
         text = "Bien qu'il pleuve, nous sortons."
         clauses = detector.detect_clauses(text)
         
-        assert len(clauses) >= 1
+        # Should detect at least the main clause
+        assert len(clauses) >= 1, f"Expected at least 1 clause, got {len(clauses)}"
     
     def test_relative_clause_french(self, detector):
         """Test detection of French relative clauses."""
         text = "Le livre que j'ai lu était intéressant."
         clauses = detector.detect_clauses(text)
         
+        # Should detect at least the main clause
+        assert len(clauses) >= 1, f"Expected at least 1 clause, got {len(clauses)}"
+    
+    def test_french_clause_text_extraction(self, detector):
+        """Test that French clause text is properly extracted."""
+        text = "Je pense qu'elle a raison."
+        clauses = detector.detect_clauses(text)
+        
         assert len(clauses) >= 1
+        for clause in clauses:
+            assert clause.text.strip() != ""
+            assert isinstance(clause.text, str)
 
 
 class TestSentenceClassifier:

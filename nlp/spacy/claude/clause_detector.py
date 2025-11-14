@@ -106,17 +106,33 @@ class ClauseDetector:
         roots = []
         
         for token in doc:
+            # Check if it's a verbal element
+            is_verb = token.pos_ in ("VERB", "AUX")
+            # French models may use fine-grained tags starting with V
+            is_verb = is_verb or (token.tag_ and token.tag_.startswith("V"))
+            
             # Main verb (root of sentence)
-            if token.dep_ == "ROOT" and token.pos_ in ("VERB", "AUX"):
-                roots.append(token)
+            if token.dep_ == "ROOT":
+                if is_verb:
+                    roots.append(token)
+                # Fallback: if ROOT is not a verb but sentence has no other verb roots
+                elif not roots:
+                    roots.append(token)
             
             # Subordinate clauses
-            elif token.dep_ in self.SUBORDINATE_DEPS and token.pos_ in ("VERB", "AUX"):
+            elif token.dep_ in self.SUBORDINATE_DEPS and is_verb:
                 roots.append(token)
             
             # Coordinated verbs (compound sentences)
-            elif token.dep_ == "conj" and token.pos_ in ("VERB", "AUX"):
+            elif token.dep_ == "conj" and is_verb:
                 roots.append(token)
+        
+        # Final fallback: if no roots found, use ROOT token regardless of POS
+        if not roots:
+            for token in doc:
+                if token.dep_ == "ROOT":
+                    roots.append(token)
+                    break
         
         return roots
     
