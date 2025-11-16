@@ -24,4 +24,16 @@ read - GET
 update - PUT
 delete - DELETE
 
+## path parameter 
 
+```python 
+
+# static path parameter
+
+
+# dynamic path parameter
+@app.get("/book/{dynamic_param}")
+async def read_all_books(dynamic_param):
+    return {'dynamic_param': dynamic_param}
+
+```
